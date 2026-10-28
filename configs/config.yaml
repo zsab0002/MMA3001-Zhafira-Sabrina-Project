@@ -1,0 +1,32 @@
+# Central configuration for every script. Change values here, not in code.
+seed: 42
+
+paths:
+  raw_data: data/raw                 # unzip the Roboflow export here (contains data.yaml)
+  grouped_data: data/grouped         # leakage-free split written by 02_make_grouped_split.py
+  results: results
+
+grouped_split:
+  sequence_gap: 20                   # frames further apart than this start a new video sequence
+  fractions: [0.70, 0.15, 0.15]      # train / val / test share of SEQUENCES
+
+yolo:
+  models: [yolov8n.pt]                # main model; add yolov8s.pt for the optional larger alternative
+  epochs: 30                         # validation mAP plateaued by ~epoch 21 in earlier 30-epoch run
+  patience: 10                       # early stopping on validation mAP
+  imgsz: 640
+  batch: 8                           # fits a 4 GB laptop GPU (RTX 3050 Ti), incl. yolov8s
+  device: auto                       # auto -> first GPU if available, else cpu
+  workers: 0                         # 0 avoids Windows multiprocessing errors
+
+inspection:
+  # A tray FAILS if any defect is detected with confidence >= conf_threshold.
+  conf_threshold: 0.25               # default; 05_evaluate.py re-tunes it on the VALIDATION set
+  target_recall: 0.95                # tuning rule: highest threshold keeping val FAIL-recall >= this
+  iou_threshold: 0.5                 # IoU for matching boxes in validation
+  # Severity = total defect box area / image area
+  severity_bands: {minor: 0.01, major: 0.05}
+
+sensitivity:
+  imgsz_values: [320, 480, 640]
+  conf_values: [0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.40, 0.50, 0.60, 0.70]

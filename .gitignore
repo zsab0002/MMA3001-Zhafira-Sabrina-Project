@@ -1,0 +1,12 @@
+# data is NOT committed (240 MB, CC BY 4.0 - download instructions in README)
+data/raw/
+data/grouped/
+# large training outputs; small JSON/PNG summaries are committed
+results/runs/*/weights/
+*.pt
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.vscode/
+*.egg-info/
