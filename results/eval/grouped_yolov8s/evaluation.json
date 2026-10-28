@@ -1,0 +1,71 @@
+{
+  "run": "grouped_yolov8s",
+  "split": "grouped",
+  "model": "yolov8s.pt",
+  "imgsz": 640,
+  "train_minutes": 34.042069796666816,
+  "detection_test": {
+    "precision": 0.6321269722161758,
+    "recall": 0.3256851395668623,
+    "mAP50": 0.42277222341678933,
+    "mAP50_95": 0.23553441464828323,
+    "AP50_per_class": {
+      "packaging-error": 0.6228012691720342,
+      "twisted-meat": 0.2475,
+      "unsealed": 0.820787624495123,
+      "wrinkle": 0.0
+    },
+    "speed_ms": {
+      "preprocess": 1.3977718084246822,
+      "inference": 8.565938297985493,
+      "loss": 0.0005606383870435047,
+      "postprocess": 0.7980734043620884
+    }
+  },
+  "threshold_from_val": 0.1,
+  "tray_test": {
+    "tp": 144,
+    "fp": 20,
+    "tn": 15,
+    "fn": 9,
+    "accuracy": 0.8457446808510638,
+    "precision": 0.8780487804878049,
+    "recall": 0.9411764705882353,
+    "specificity": 0.42857142857142855,
+    "f1": 0.9085173501577287,
+    "balanced_accuracy": 0.6848739495798319,
+    "recall_95ci": [
+      0.9025974025974026,
+      0.9748466981132076
+    ],
+    "specificity_95ci": [
+      0.2646671826625387,
+      0.5806639159789948
+    ]
+  },
+  "tray_test_default_threshold": {
+    "tp": 126,
+    "fp": 14,
+    "tn": 21,
+    "fn": 27,
+    "accuracy": 0.7819148936170213,
+    "precision": 0.9,
+    "recall": 0.8235294117647058,
+    "specificity": 0.6,
+    "f1": 0.8600682593856656,
+    "balanced_accuracy": 0.7117647058823529
+  },
+  "latency_per_image": {
+    "mean_ms": 11.694160000479314,
+    "median_ms": 10.246050005662255,
+    "p95_ms": 17.656700002407884,
+    "std_ms": 2.5714691169947708,
+    "fps": 97.59858671852781
+  },
+  "device": "0",
+  "complexity": {
+    "params_M": 11.137535,
+    "gflops": null,
+    "file_MB": 22.507043
+  }
+}

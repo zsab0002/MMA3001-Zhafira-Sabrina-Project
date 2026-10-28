@@ -1,0 +1,14 @@
+{
+  "valid": {
+    "frames": 120,
+    "exact_duplicates": 8,
+    "median_gap": 3.0,
+    "fraction_within_5": 0.675
+  },
+  "test": {
+    "frames": 80,
+    "exact_duplicates": 4,
+    "median_gap": 2.5,
+    "fraction_within_5": 0.675
+  }
+}

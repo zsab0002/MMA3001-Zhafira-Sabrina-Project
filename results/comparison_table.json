@@ -1,0 +1,57 @@
+[
+  {
+    "method": "grouped_yolov8n",
+    "split": "grouped",
+    "mAP50": 0.5080411922888686,
+    "mAP50-95": 0.25356601058523137,
+    "tray recall": 0.9477124183006536,
+    "tray specificity": 0.42857142857142855,
+    "bal. acc": 0.6881419234360411,
+    "ms/img": 9.641450000344776,
+    "params (M)": 3.138975
+  },
+  {
+    "method": "grouped_yolov8s",
+    "split": "grouped",
+    "mAP50": 0.42277222341678933,
+    "mAP50-95": 0.23553441464828323,
+    "tray recall": 0.9411764705882353,
+    "tray specificity": 0.42857142857142855,
+    "bal. acc": 0.6848739495798319,
+    "ms/img": 10.246050005662255,
+    "params (M)": 11.137535
+  },
+  {
+    "method": "original_yolov8n",
+    "split": "original",
+    "mAP50": 0.44313796403818956,
+    "mAP50-95": 0.21187052929026579,
+    "tray recall": 0.9117647058823529,
+    "tray specificity": 0.8333333333333334,
+    "bal. acc": 0.8725490196078431,
+    "ms/img": 9.985849996155594,
+    "params (M)": 3.138975
+  },
+  {
+    "method": "HOG+colour+LogReg baseline",
+    "split": "original",
+    "mAP50": "n/a",
+    "mAP50-95": "n/a",
+    "tray recall": 0.8088235294117647,
+    "tray specificity": 0.6666666666666666,
+    "bal. acc": 0.7377450980392157,
+    "ms/img": 5.865700000867946,
+    "params (M)": 0.002072
+  },
+  {
+    "method": "HOG+colour+LogReg baseline",
+    "split": "grouped",
+    "mAP50": "n/a",
+    "mAP50-95": "n/a",
+    "tray recall": 0.8300653594771242,
+    "tray specificity": 0.5142857142857142,
+    "bal. acc": 0.6721755368814193,
+    "ms/img": 5.383900002925657,
+    "params (M)": 0.002072
+  }
+]

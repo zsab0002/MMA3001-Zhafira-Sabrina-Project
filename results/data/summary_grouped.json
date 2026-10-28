@@ -1,0 +1,80 @@
+{
+  "split": {
+    "train": {
+      "images": 2492,
+      "sequences": 94
+    },
+    "valid": {
+      "images": 183,
+      "sequences": 10
+    },
+    "test": {
+      "images": 188,
+      "sequences": 13
+    }
+  },
+  "summary": {
+    "train": {
+      "images": 2492,
+      "unique_frames": 901,
+      "fail_trays": 2002,
+      "pass_trays": 490,
+      "boxes_per_class": {
+        "loose-meat": 63,
+        "packaging-error": 1128,
+        "twisted-meat": 67,
+        "unsealed": 920,
+        "wrinkle": 9
+      },
+      "box_area_median": 0.035883869855967095,
+      "box_area_p05": 0.0020001343364197473,
+      "box_area_p95": 0.17993827160493828
+    },
+    "valid": {
+      "images": 183,
+      "unique_frames": 183,
+      "fail_trays": 147,
+      "pass_trays": 36,
+      "boxes_per_class": {
+        "loose-meat": 3,
+        "packaging-error": 101,
+        "twisted-meat": 4,
+        "unsealed": 52,
+        "wrinkle": 0
+      },
+      "box_area_median": 0.005077930812757196,
+      "box_area_p05": 0.0014587089506172828,
+      "box_area_p95": 0.1292600308641975
+    },
+    "test": {
+      "images": 188,
+      "unique_frames": 188,
+      "fail_trays": 153,
+      "pass_trays": 35,
+      "boxes_per_class": {
+        "loose-meat": 0,
+        "packaging-error": 115,
+        "twisted-meat": 2,
+        "unsealed": 53,
+        "wrinkle": 3
+      },
+      "box_area_median": 0.0040007716049382585,
+      "box_area_p05": 0.001655246913580248,
+      "box_area_p95": 0.14068209876543208
+    }
+  },
+  "leakage": {
+    "valid": {
+      "frames": 183,
+      "exact_duplicates": 0,
+      "median_gap": 116.0,
+      "fraction_within_5": 0.0
+    },
+    "test": {
+      "frames": 188,
+      "exact_duplicates": 0,
+      "median_gap": 77.0,
+      "fraction_within_5": 0.0
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "weights": "yolov8s.pt",
+  "split": "grouped",
+  "epochs_max": 30,
+  "imgsz": 640,
+  "fraction": 1.0,
+  "train_minutes": 34.042069796666816,
+  "best": "C:\\Users\\Zhafira\\Downloads\\pork-qc-fixed final\\pork-qc\\results\\runs\\grouped_yolov8s\\weights\\best.pt"
+}

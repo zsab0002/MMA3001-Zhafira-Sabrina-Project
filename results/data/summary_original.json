@@ -1,0 +1,50 @@
+{
+  "train": {
+    "images": 3349,
+    "unique_frames": 1085,
+    "fail_trays": 2665,
+    "pass_trays": 684,
+    "boxes_per_class": {
+      "loose-meat": 66,
+      "packaging-error": 1712,
+      "twisted-meat": 72,
+      "unsealed": 1055,
+      "wrinkle": 18
+    },
+    "box_area_median": 0.018083333333333305,
+    "box_area_p05": 0.0017779429012345655,
+    "box_area_p95": 0.16347736625514406
+  },
+  "valid": {
+    "images": 120,
+    "unique_frames": 120,
+    "fail_trays": 106,
+    "pass_trays": 14,
+    "boxes_per_class": {
+      "loose-meat": 3,
+      "packaging-error": 34,
+      "twisted-meat": 3,
+      "unsealed": 81,
+      "wrinkle": 0
+    },
+    "box_area_median": 0.08309670781893005,
+    "box_area_p05": 0.004307333333333332,
+    "box_area_p95": 0.21993569958847733
+  },
+  "test": {
+    "images": 80,
+    "unique_frames": 80,
+    "fail_trays": 68,
+    "pass_trays": 12,
+    "boxes_per_class": {
+      "loose-meat": 3,
+      "packaging-error": 23,
+      "twisted-meat": 4,
+      "unsealed": 49,
+      "wrinkle": 0
+    },
+    "box_area_median": 0.053330761316872435,
+    "box_area_p05": 0.004839162499999989,
+    "box_area_p95": 0.1488320473251028
+  }
+}

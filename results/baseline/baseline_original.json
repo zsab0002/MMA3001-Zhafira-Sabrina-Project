@@ -1,0 +1,45 @@
+{
+  "split": "original",
+  "chosen_C": 0.001,
+  "test": {
+    "tp": 55,
+    "fp": 4,
+    "tn": 8,
+    "fn": 13,
+    "accuracy": 0.7875,
+    "precision": 0.9322033898305084,
+    "recall": 0.8088235294117647,
+    "specificity": 0.6666666666666666,
+    "f1": 0.8661417322834646,
+    "balanced_accuracy": 0.7377450980392157,
+    "recall_95ci": [
+      0.7246376811594203,
+      0.9014084507042254
+    ],
+    "specificity_95ci": [
+      0.35714285714285715,
+      0.9230769230769231
+    ]
+  },
+  "always_fail_test": {
+    "tp": 68,
+    "fp": 12,
+    "tn": 0,
+    "fn": 0,
+    "accuracy": 0.85,
+    "precision": 0.85,
+    "recall": 1.0,
+    "specificity": 0.0,
+    "f1": 0.9189189189189189,
+    "balanced_accuracy": 0.5
+  },
+  "latency_per_image": {
+    "mean_ms": 6.253602000942919,
+    "median_ms": 5.865700000867946,
+    "p95_ms": 8.159644999977898,
+    "std_ms": 0.976891620109275,
+    "fps": 170.48263631826214
+  },
+  "peak_memory_MB": 1.0648,
+  "n_features": 2072
+}

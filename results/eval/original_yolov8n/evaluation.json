@@ -1,0 +1,71 @@
+{
+  "run": "original_yolov8n",
+  "split": "original",
+  "model": "yolov8n.pt",
+  "imgsz": 640,
+  "train_minutes": 36.613310188333344,
+  "detection_test": {
+    "precision": 0.4936207002482107,
+    "recall": 0.42805383022774324,
+    "mAP50": 0.44313796403818956,
+    "mAP50_95": 0.21187052929026579,
+    "AP50_per_class": {
+      "loose-meat": 0.425,
+      "packaging-error": 0.4734813940095308,
+      "twisted-meat": 0.025436507936507938,
+      "unsealed": 0.8486339542067194
+    },
+    "speed_ms": {
+      "preprocess": 1.0946887497993885,
+      "inference": 5.636104999939562,
+      "loss": 0.0005312498615239747,
+      "postprocess": 1.1748462498871959
+    }
+  },
+  "threshold_from_val": 0.25,
+  "tray_test": {
+    "tp": 62,
+    "fp": 2,
+    "tn": 10,
+    "fn": 6,
+    "accuracy": 0.9,
+    "precision": 0.96875,
+    "recall": 0.9117647058823529,
+    "specificity": 0.8333333333333334,
+    "f1": 0.9393939393939394,
+    "balanced_accuracy": 0.8725490196078431,
+    "recall_95ci": [
+      0.8450704225352113,
+      0.9705882352941176
+    ],
+    "specificity_95ci": [
+      0.5714285714285714,
+      1.0
+    ]
+  },
+  "tray_test_default_threshold": {
+    "tp": 62,
+    "fp": 2,
+    "tn": 10,
+    "fn": 6,
+    "accuracy": 0.9,
+    "precision": 0.96875,
+    "recall": 0.9117647058823529,
+    "specificity": 0.8333333333333334,
+    "f1": 0.9393939393939394,
+    "balanced_accuracy": 0.8725490196078431
+  },
+  "latency_per_image": {
+    "mean_ms": 11.482716667524073,
+    "median_ms": 9.985849996155594,
+    "p95_ms": 18.356094991759164,
+    "std_ms": 2.866280190130297,
+    "fps": 100.14170054476939
+  },
+  "device": "0",
+  "complexity": {
+    "params_M": 3.138975,
+    "gflops": null,
+    "file_MB": 6.495267
+  }
+}

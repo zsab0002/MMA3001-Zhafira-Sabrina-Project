@@ -1,0 +1,5952 @@
+[
+  {
+    "image": "frame_with_red_10184_jpg.rf.3921c247b0f70de53d7a91e2f8e0a7fa.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.368,
+    "severity": "minor",
+    "defect_area_fraction": 0.00616,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.368,
+        "xyxy": [
+          665.9,
+          394.3,
+          720.0,
+          430.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1322,
+        "xyxy": [
+          704.1,
+          398.4,
+          719.8,
+          425.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_10190_jpg.rf.4a1bdbc5852952b5ac9bf3507713e717.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7018,
+    "severity": "major",
+    "defect_area_fraction": 0.01015,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.7018,
+        "xyxy": [
+          158.7,
+          351.8,
+          254.2,
+          393.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_10200_jpg.rf.1d9df6442fa3c77c330f1171dc5a096b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2345,
+    "severity": "major",
+    "defect_area_fraction": 0.0347,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.2345,
+        "xyxy": [
+          611.4,
+          380.5,
+          719.4,
+          444.7
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1551,
+        "xyxy": [
+          613.9,
+          370.9,
+          719.1,
+          433.3
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_10436_jpg.rf.02986531660d35f41ed781b286e6162b.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_10496_jpg.rf.afa7ed92a6aad350b68a9c612487581a.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5444,
+    "severity": "minor",
+    "defect_area_fraction": 0.00207,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5444,
+        "xyxy": [
+          661.3,
+          393.3,
+          696.5,
+          416.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_10498_jpg.rf.46f961e0842f830cde8d54fb85ecf590.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0174,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_10500_jpg.rf.198691f222069b5e7a8951af406d07fc.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_10514_jpg.rf.17e54bc27f4cddd631ae1612881e11bd.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2561,
+    "severity": "minor",
+    "defect_area_fraction": 0.00361,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2561,
+        "xyxy": [
+          5.8,
+          428.3,
+          44.5,
+          447.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1134,
+        "xyxy": [
+          3.5,
+          430.3,
+          37.3,
+          449.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_10532_jpg.rf.19bd6a4439467851b0d571302d2756ef.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0189,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_10552_jpg.rf.1f8ef43069bb10482f44c98f6aea6990.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0246,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_3117_jpg.rf.f7143bc7a934176ecafb9727e3c2642b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.159,
+    "severity": "critical",
+    "defect_area_fraction": 0.19306,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.159,
+        "xyxy": [
+          0.4,
+          301.5,
+          316.4,
+          539.1
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_3613_jpg.rf.1ed0f21e31122bbd73cb2fc03343c796.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2591,
+    "severity": "major",
+    "defect_area_fraction": 0.04454,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2591,
+        "xyxy": [
+          600.7,
+          334.0,
+          683.4,
+          413.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1193,
+        "xyxy": [
+          598.3,
+          328.2,
+          715.2,
+          420.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_4135_jpg.rf.1a89074e38ef3c0cbda3ff7e79680817.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8474,
+    "severity": "critical",
+    "defect_area_fraction": 0.13626,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8474,
+        "xyxy": [
+          460.0,
+          336.2,
+          720.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_4145_jpg.rf.26217bb5cebff04bbf9e18485dad08a8.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.349,
+    "severity": "critical",
+    "defect_area_fraction": 0.15929,
+    "defects": {
+      "packaging-error": 2,
+      "unsealed": 5
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.349,
+        "xyxy": [
+          519.3,
+          414.5,
+          720.0,
+          513.9
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2646,
+        "xyxy": [
+          505.8,
+          412.3,
+          719.1,
+          483.5
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1967,
+        "xyxy": [
+          545.4,
+          406.2,
+          719.6,
+          467.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1674,
+        "xyxy": [
+          552.8,
+          396.6,
+          617.1,
+          454.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.164,
+        "xyxy": [
+          569.0,
+          398.0,
+          611.0,
+          449.4
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.154,
+        "xyxy": [
+          621.9,
+          403.6,
+          720.0,
+          466.6
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1239,
+        "xyxy": [
+          633.9,
+          407.4,
+          719.7,
+          456.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2, unsealed x5"
+  },
+  {
+    "image": "frame_with_red_4158_jpg.rf.1ba1ddb2ef00c61a1557b501faac4e4f.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0117,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_4159_jpg.rf.58644d009dfd802c651ad64b76c1fd55.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4706,
+    "severity": "critical",
+    "defect_area_fraction": 0.13809,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.4706,
+        "xyxy": [
+          507.7,
+          396.2,
+          720.0,
+          539.4
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1304,
+        "xyxy": [
+          506.8,
+          390.4,
+          718.5,
+          500.5
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_4165_jpg.rf.0d3a2028c74c8bd056c87c4e86304150.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8,
+    "severity": "critical",
+    "defect_area_fraction": 0.17168,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8,
+        "xyxy": [
+          0.0,
+          354.7,
+          361.2,
+          539.5
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_4167_jpg.rf.5f54097ae177c1a39e8f30373753fe8d.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_4170_jpg.rf.d8c8752306e12c3db16b1e549e58179b.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_4173_jpg.rf.34c4db72abd5b4c844840347775b218a.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8068,
+    "severity": "critical",
+    "defect_area_fraction": 0.12893,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8068,
+        "xyxy": [
+          485.7,
+          326.1,
+          720.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_4183_jpg.rf.6be25c6daa5b6944f27591559a028c89.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8321,
+    "severity": "critical",
+    "defect_area_fraction": 0.11678,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8321,
+        "xyxy": [
+          483.4,
+          347.0,
+          720.0,
+          538.9
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_4185_jpg.rf.6c56f904f61675bfef51b8fcaf984716.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8126,
+    "severity": "critical",
+    "defect_area_fraction": 0.10694,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8126,
+        "xyxy": [
+          479.9,
+          365.9,
+          720.0,
+          539.1
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_4186_jpg.rf.7646aa80fff781ff310d0c30d18cc581.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3371,
+    "severity": "critical",
+    "defect_area_fraction": 0.08296,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.3371,
+        "xyxy": [
+          534.3,
+          370.6,
+          719.6,
+          473.5
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2506,
+        "xyxy": [
+          549.0,
+          379.4,
+          720.0,
+          456.5
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_5146_jpg.rf.d4168232d3518a790c5f3642113e2aca.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1262,
+    "severity": "major",
+    "defect_area_fraction": 0.01135,
+    "defects": {
+      "loose-meat": 1
+    },
+    "detections": [
+      {
+        "class": "loose-meat",
+        "conf": 0.1262,
+        "xyxy": [
+          89.6,
+          370.7,
+          164.7,
+          429.4
+        ]
+      }
+    ],
+    "message": "defects: loose-meat x1"
+  },
+  {
+    "image": "frame_with_red_5165_jpg.rf.61e5f0babd58eea0a436f49cef60d88b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.344,
+    "severity": "critical",
+    "defect_area_fraction": 0.05014,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.344,
+        "xyxy": [
+          540.3,
+          333.0,
+          720.0,
+          441.5
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_5167_jpg.rf.11b37715a59bd716c01de294da21f897.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4919,
+    "severity": "critical",
+    "defect_area_fraction": 0.18199,
+    "defects": {
+      "unsealed": 3
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.4919,
+        "xyxy": [
+          520.9,
+          374.2,
+          717.8,
+          496.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.4788,
+        "xyxy": [
+          537.4,
+          365.5,
+          719.7,
+          537.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1909,
+        "xyxy": [
+          532.3,
+          373.0,
+          718.6,
+          455.9
+        ]
+      }
+    ],
+    "message": "defects: unsealed x3"
+  },
+  {
+    "image": "frame_with_red_5175_jpg.rf.50715d54b118e77ad52884ae8d0bf179.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4815,
+    "severity": "minor",
+    "defect_area_fraction": 0.00355,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4815,
+        "xyxy": [
+          671.4,
+          356.1,
+          706.7,
+          395.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_5820_jpg.rf.6f9a450da075eddc7dca6e43bfb4178d.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0118,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_5830_jpg.rf.33f543e7f0549d99c83effd8dff98485.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0536,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_5835_jpg.rf.01ea1b628b25d7127a2399d88f9250e2.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1321,
+    "severity": "minor",
+    "defect_area_fraction": 0.00277,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1321,
+        "xyxy": [
+          695.4,
+          367.7,
+          720.0,
+          411.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_5849_jpg.rf.4cdf1fef179bfc4b9e2c0dcf16ddef4a.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8538,
+    "severity": "critical",
+    "defect_area_fraction": 0.1702,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8538,
+        "xyxy": [
+          0.0,
+          348.9,
+          347.7,
+          539.2
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_5856_jpg.rf.057f9df9f8fe7cc546aa0d42c17bda91.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_5859_jpg.rf.86dc5555f35b4b326390a5b03004d6cf.jpg",
+    "decision": "PASS",
+    "fail_score": 0.015,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_5871_jpg.rf.345ad6e5c7fd47e0ea51ffe7ae791886.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.372,
+    "severity": "major",
+    "defect_area_fraction": 0.01179,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.372,
+        "xyxy": [
+          578.0,
+          370.2,
+          617.6,
+          415.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.108,
+        "xyxy": [
+          572.9,
+          368.8,
+          628.8,
+          418.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_5927_jpg.rf.480c6ce5a4d6b5979ee26ac0601e4f02.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0196,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_5941_jpg.rf.62d2b44e363eeb805da80b6a3b167d87.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8238,
+    "severity": "critical",
+    "defect_area_fraction": 0.12254,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8238,
+        "xyxy": [
+          471.9,
+          348.0,
+          720.0,
+          539.9
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_5946_jpg.rf.600fa060f3fcb3c63b0591df18312504.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8744,
+    "severity": "critical",
+    "defect_area_fraction": 0.1549,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8744,
+        "xyxy": [
+          0.0,
+          362.8,
+          339.8,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_5956_jpg.rf.55fa4583f490150dc3efc9d9b47aa3ef.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4055,
+    "severity": "minor",
+    "defect_area_fraction": 0.0019,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4055,
+        "xyxy": [
+          667.1,
+          362.2,
+          698.3,
+          386.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_5957_jpg.rf.30e6651150dcf4e4c76a28db760825e9.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5296,
+    "severity": "minor",
+    "defect_area_fraction": 0.00302,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5296,
+        "xyxy": [
+          644.4,
+          365.0,
+          683.5,
+          395.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_5965_jpg.rf.16951e088dfdac5f5979b6d1c0738b0c.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.848,
+    "severity": "critical",
+    "defect_area_fraction": 0.10795,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.848,
+        "xyxy": [
+          474.7,
+          367.7,
+          719.9,
+          538.9
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_5967_jpg.rf.26a7ed8e14c4de06b4ce1f1ca99674f8.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0264,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_6721_jpg.rf.9a53b4ed63cfa729f1a10f1a5979e3cd.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4787,
+    "severity": "minor",
+    "defect_area_fraction": 0.0088,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4787,
+        "xyxy": [
+          576.1,
+          373.1,
+          617.7,
+          398.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.179,
+        "xyxy": [
+          707.8,
+          380.2,
+          720.0,
+          408.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.142,
+        "xyxy": [
+          575.0,
+          369.2,
+          623.0,
+          400.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1036,
+        "xyxy": [
+          702.7,
+          380.0,
+          720.0,
+          410.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_6730_jpg.rf.675735248f982712a28e1d3c6fbe13cc.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.613,
+    "severity": "minor",
+    "defect_area_fraction": 0.00195,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.613,
+        "xyxy": [
+          597.7,
+          381.6,
+          626.0,
+          408.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6733_jpg.rf.1218b8104b1f9a63e88f5d6496bf0b5c.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5269,
+    "severity": "minor",
+    "defect_area_fraction": 0.00505,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5269,
+        "xyxy": [
+          573.6,
+          355.1,
+          606.2,
+          385.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2209,
+        "xyxy": [
+          707.4,
+          366.4,
+          720.0,
+          397.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1255,
+        "xyxy": [
+          702.3,
+          365.8,
+          720.0,
+          398.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_6752_jpg.rf.9d8fbf34fcbba6241dae2c36b032ad59.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7965,
+    "severity": "critical",
+    "defect_area_fraction": 0.1183,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.7965,
+        "xyxy": [
+          490.8,
+          339.4,
+          720.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6754_jpg.rf.36327bd9b40ed1f06d59a8b4e8b86f16.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4714,
+    "severity": "major",
+    "defect_area_fraction": 0.0129,
+    "defects": {
+      "packaging-error": 6
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4714,
+        "xyxy": [
+          601.8,
+          360.4,
+          626.1,
+          385.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1745,
+        "xyxy": [
+          681.2,
+          388.3,
+          720.0,
+          411.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1625,
+        "xyxy": [
+          698.4,
+          384.4,
+          719.9,
+          411.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.129,
+        "xyxy": [
+          685.0,
+          384.0,
+          719.5,
+          414.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1129,
+        "xyxy": [
+          592.2,
+          358.2,
+          626.3,
+          386.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1006,
+        "xyxy": [
+          600.6,
+          359.1,
+          631.0,
+          388.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x6"
+  },
+  {
+    "image": "frame_with_red_6761_jpg.rf.408aa7addbaa4f62823738834329ab98.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4482,
+    "severity": "minor",
+    "defect_area_fraction": 0.00371,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4482,
+        "xyxy": [
+          49.0,
+          353.3,
+          75.8,
+          374.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1265,
+        "xyxy": [
+          43.1,
+          351.7,
+          78.2,
+          376.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6764_jpg.rf.265947dd4170bb57789ebc724738a4a3.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5704,
+    "severity": "minor",
+    "defect_area_fraction": 0.00384,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5704,
+        "xyxy": [
+          609.2,
+          360.6,
+          661.4,
+          389.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6765_jpg.rf.0c9b54a590649d85104de47bcab19eda.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5267,
+    "severity": "major",
+    "defect_area_fraction": 0.01414,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5267,
+        "xyxy": [
+          575.2,
+          371.1,
+          627.1,
+          395.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3007,
+        "xyxy": [
+          641.6,
+          386.8,
+          672.1,
+          416.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1315,
+        "xyxy": [
+          572.2,
+          368.2,
+          628.8,
+          402.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1168,
+        "xyxy": [
+          635.4,
+          380.7,
+          672.7,
+          417.6
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_6774_jpg.rf.3e1e4e66571e1247142366667315aa63.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.471,
+    "severity": "minor",
+    "defect_area_fraction": 0.0057,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.471,
+        "xyxy": [
+          4.0,
+          418.6,
+          32.3,
+          438.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3222,
+        "xyxy": [
+          109.6,
+          347.5,
+          141.0,
+          377.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1879,
+        "xyxy": [
+          1.1,
+          417.2,
+          30.6,
+          441.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_6777_jpg.rf.4b75d87d6809064b027e0e2ebead61d6.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.367,
+    "severity": "minor",
+    "defect_area_fraction": 0.00357,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.367,
+        "xyxy": [
+          579.0,
+          356.6,
+          612.6,
+          397.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6779_jpg.rf.9acc5de4c27ae7f6867f5cff19c0b78e.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2673,
+    "severity": "minor",
+    "defect_area_fraction": 0.00291,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2673,
+        "xyxy": [
+          623.9,
+          385.8,
+          650.4,
+          414.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1523,
+        "xyxy": [
+          707.7,
+          389.1,
+          720.0,
+          419.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6782_jpg.rf.03f08977419b1ed4be5d6e043c34c665.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4173,
+    "severity": "critical",
+    "defect_area_fraction": 0.05266,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4173,
+        "xyxy": [
+          21.3,
+          411.8,
+          51.0,
+          434.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.102,
+        "xyxy": [
+          17.2,
+          380.0,
+          266.8,
+          459.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6784_jpg.rf.1192de36934a414ac046abc8b80a7465.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1476,
+    "severity": "minor",
+    "defect_area_fraction": 0.00173,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1476,
+        "xyxy": [
+          50.2,
+          426.9,
+          82.1,
+          448.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6786_jpg.rf.69186cb41f72967cd8cac86eca912866.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.539,
+    "severity": "minor",
+    "defect_area_fraction": 0.00157,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.539,
+        "xyxy": [
+          150.9,
+          362.4,
+          180.4,
+          383.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6789_jpg.rf.6b53577b2f9bc7d7888d2a8a36a1e9b3.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7924,
+    "severity": "critical",
+    "defect_area_fraction": 0.09994,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.7924,
+        "xyxy": [
+          518.3,
+          346.7,
+          719.9,
+          539.4
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6806_jpg.rf.54efcbe5bd751a8b2873d85fc68d2ce0.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_6818_jpg.rf.0b9f5e6e5a97463b3ea95cfbb3dce859.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4029,
+    "severity": "minor",
+    "defect_area_fraction": 0.00834,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4029,
+        "xyxy": [
+          642.3,
+          383.3,
+          683.9,
+          407.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3508,
+        "xyxy": [
+          569.4,
+          381.9,
+          600.4,
+          406.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1887,
+        "xyxy": [
+          637.5,
+          382.0,
+          686.8,
+          412.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_6820_jpg.rf.6cb2a147fc31816c5107454ac5e1d996.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.204,
+    "severity": "critical",
+    "defect_area_fraction": 0.22803,
+    "defects": {
+      "packaging-error": 3,
+      "unsealed": 3
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.204,
+        "xyxy": [
+          60.3,
+          336.3,
+          346.0,
+          450.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1553,
+        "xyxy": [
+          151.2,
+          324.9,
+          246.0,
+          388.7
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1496,
+        "xyxy": [
+          113.3,
+          337.0,
+          315.5,
+          419.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1465,
+        "xyxy": [
+          157.0,
+          328.0,
+          238.4,
+          378.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1368,
+        "xyxy": [
+          148.7,
+          324.6,
+          287.8,
+          387.1
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1266,
+        "xyxy": [
+          65.4,
+          343.4,
+          338.7,
+          418.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3, unsealed x3"
+  },
+  {
+    "image": "frame_with_red_6821_jpg.rf.363b8544192846057d6cadab6515d59b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4932,
+    "severity": "minor",
+    "defect_area_fraction": 0.008,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4932,
+        "xyxy": [
+          167.6,
+          378.7,
+          214.7,
+          403.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2329,
+        "xyxy": [
+          161.5,
+          372.1,
+          218.5,
+          406.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6825_jpg.rf.16ab96b122334c72f8cc48d465a455ff.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.19,
+    "severity": "minor",
+    "defect_area_fraction": 0.00767,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.19,
+        "xyxy": [
+          656.3,
+          402.7,
+          720.0,
+          428.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1027,
+        "xyxy": [
+          677.5,
+          397.1,
+          720.0,
+          429.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6826_jpg.rf.1b6eacc6a0470b5b9e8d4cc59fcb7847.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2938,
+    "severity": "major",
+    "defect_area_fraction": 0.02357,
+    "defects": {
+      "packaging-error": 6
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2938,
+        "xyxy": [
+          624.3,
+          380.6,
+          661.2,
+          411.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2868,
+        "xyxy": [
+          579.0,
+          374.6,
+          618.3,
+          408.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2309,
+        "xyxy": [
+          706.8,
+          390.9,
+          720.0,
+          426.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2263,
+        "xyxy": [
+          577.0,
+          374.7,
+          664.8,
+          416.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2255,
+        "xyxy": [
+          608.3,
+          377.7,
+          660.0,
+          413.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1228,
+        "xyxy": [
+          701.2,
+          387.1,
+          720.0,
+          428.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x6"
+  },
+  {
+    "image": "frame_with_red_6827_jpg.rf.3436ace6a39f1fb8d8bf43b2dfd8ac5a.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_6831_jpg.rf.33cf2fc8e602fffa05e812ea15d25361.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4221,
+    "severity": "major",
+    "defect_area_fraction": 0.02904,
+    "defects": {
+      "packaging-error": 7
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4221,
+        "xyxy": [
+          152.5,
+          358.8,
+          185.8,
+          383.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3369,
+        "xyxy": [
+          150.2,
+          341.0,
+          212.8,
+          383.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3055,
+        "xyxy": [
+          151.5,
+          351.1,
+          194.0,
+          382.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3032,
+        "xyxy": [
+          184.2,
+          338.4,
+          214.5,
+          375.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1979,
+        "xyxy": [
+          172.0,
+          340.8,
+          213.0,
+          383.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1255,
+        "xyxy": [
+          175.7,
+          334.2,
+          218.3,
+          374.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1208,
+        "xyxy": [
+          162.6,
+          340.0,
+          210.3,
+          379.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x7"
+  },
+  {
+    "image": "frame_with_red_6844_jpg.rf.34759b33837dcdd0386d724a379c9b38.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4903,
+    "severity": "minor",
+    "defect_area_fraction": 0.00565,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4903,
+        "xyxy": [
+          2.9,
+          422.8,
+          51.4,
+          447.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1943,
+        "xyxy": [
+          0.0,
+          423.9,
+          40.5,
+          448.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6847_jpg.rf.d7bb1ffb1f852abf1e9cee0800827227.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3409,
+    "severity": "minor",
+    "defect_area_fraction": 0.00232,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3409,
+        "xyxy": [
+          30.8,
+          401.6,
+          67.9,
+          425.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6849_jpg.rf.16eafc31da898d8a7f5d7f100c0f6633.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.6613,
+    "severity": "minor",
+    "defect_area_fraction": 0.00997,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.6613,
+        "xyxy": [
+          511.8,
+          400.9,
+          568.5,
+          428.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1096,
+        "xyxy": [
+          509.6,
+          398.4,
+          573.1,
+          434.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6850_jpg.rf.487a26cc2c8d08ecebbcdf5007873c48.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5259,
+    "severity": "major",
+    "defect_area_fraction": 0.01193,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5259,
+        "xyxy": [
+          626.3,
+          377.3,
+          677.6,
+          412.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.223,
+        "xyxy": [
+          625.7,
+          375.3,
+          703.9,
+          411.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6852_jpg.rf.04a9fc5d0badfdd9de21929e8a95cee4.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4618,
+    "severity": "minor",
+    "defect_area_fraction": 0.00479,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4618,
+        "xyxy": [
+          659.4,
+          399.7,
+          696.0,
+          420.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1722,
+        "xyxy": [
+          655.3,
+          399.1,
+          699.1,
+          424.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6861_jpg.rf.113cb49327fd5cb23aeb4685cae08991.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8216,
+    "severity": "critical",
+    "defect_area_fraction": 0.09739,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8216,
+        "xyxy": [
+          523.1,
+          347.0,
+          720.0,
+          539.4
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6868_jpg.rf.a99350ef762d12ed074d4f35432747a4.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8438,
+    "severity": "critical",
+    "defect_area_fraction": 0.18946,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8438,
+        "xyxy": [
+          0.6,
+          346.3,
+          382.9,
+          539.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6870_jpg.rf.0c05f0fab5dad50e890c1adc185ba251.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2698,
+    "severity": "minor",
+    "defect_area_fraction": 0.00234,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2698,
+        "xyxy": [
+          80.9,
+          387.2,
+          110.5,
+          418.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6874_jpg.rf.1421fe5a2bb9eb6d4c62bb05834e2ca0.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8615,
+    "severity": "critical",
+    "defect_area_fraction": 0.11355,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8615,
+        "xyxy": [
+          477.3,
+          358.1,
+          720.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6878_jpg.rf.66377132a48337150fc4434fe920fbbd.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_6879_jpg.rf.3bea88da85094e1fb126b496c021c14b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.517,
+    "severity": "minor",
+    "defect_area_fraction": 0.00739,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.517,
+        "xyxy": [
+          607.1,
+          374.3,
+          642.0,
+          406.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1036,
+        "xyxy": [
+          604.0,
+          372.8,
+          648.7,
+          412.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6884_jpg.rf.08ecfe41a1c7206e65634809f467f67e.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3863,
+    "severity": "critical",
+    "defect_area_fraction": 0.08303,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.3863,
+        "xyxy": [
+          557.1,
+          343.3,
+          720.0,
+          462.1
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2216,
+        "xyxy": [
+          562.9,
+          351.7,
+          718.3,
+          434.9
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_6888_jpg.rf.7ba849ac28ea9c7de12f18bbc5a7770d.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1002,
+    "severity": "minor",
+    "defect_area_fraction": 0.0014,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1002,
+        "xyxy": [
+          707.8,
+          367.1,
+          720.0,
+          412.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6891_jpg.rf.138eefe7b757315c3fa5041527ecddd3.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1679,
+    "severity": "minor",
+    "defect_area_fraction": 0.0028,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1679,
+        "xyxy": [
+          583.1,
+          363.4,
+          611.0,
+          402.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6898_jpg.rf.02dcd3f8f22441577154093e19ebf02c.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0172,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_6901_jpg.rf.23c8c693fe54b321f9c94a9d4d0caff5.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_6915_jpg.rf.48b8195887fc5ffddd758dc61642e1e4.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1355,
+    "severity": "minor",
+    "defect_area_fraction": 0.0012,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1355,
+        "xyxy": [
+          707.8,
+          369.4,
+          720.0,
+          407.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6916_jpg.rf.13e2c5a68bafdcb4bdd4255a41791fc4.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5806,
+    "severity": "minor",
+    "defect_area_fraction": 0.00451,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5806,
+        "xyxy": [
+          192.0,
+          372.8,
+          222.4,
+          402.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1635,
+        "xyxy": [
+          68.9,
+          424.4,
+          104.6,
+          447.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6920_jpg.rf.105ad7c5ea4eac68999b17fcd4ed817d.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3298,
+    "severity": "major",
+    "defect_area_fraction": 0.01261,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3298,
+        "xyxy": [
+          58.9,
+          382.7,
+          111.9,
+          429.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1622,
+        "xyxy": [
+          59.3,
+          393.2,
+          122.6,
+          431.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6921_jpg.rf.4a381cd3a6649864c49413007a39b200.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4216,
+    "severity": "major",
+    "defect_area_fraction": 0.01059,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4216,
+        "xyxy": [
+          13.0,
+          403.9,
+          60.6,
+          436.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1326,
+        "xyxy": [
+          9.8,
+          399.3,
+          71.7,
+          441.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_6926_jpg.rf.37ec172c27d5aa72131ea2cd4049b2d6.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.6217,
+    "severity": "minor",
+    "defect_area_fraction": 0.00266,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.6217,
+        "xyxy": [
+          639.2,
+          395.3,
+          679.6,
+          421.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6928_jpg.rf.9c554c8eb8a0f4d881230ff1eb8cbb37.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3816,
+    "severity": "minor",
+    "defect_area_fraction": 0.00408,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3816,
+        "xyxy": [
+          68.3,
+          372.1,
+          108.2,
+          411.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6938_jpg.rf.01b4f4310c6f9783df17fb6fc6a49d5e.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4233,
+    "severity": "major",
+    "defect_area_fraction": 0.01918,
+    "defects": {
+      "packaging-error": 5
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4233,
+        "xyxy": [
+          620.9,
+          345.7,
+          652.5,
+          383.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.279,
+        "xyxy": [
+          620.4,
+          345.5,
+          678.1,
+          388.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.224,
+        "xyxy": [
+          647.5,
+          350.9,
+          679.5,
+          390.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1736,
+        "xyxy": [
+          652.6,
+          357.6,
+          678.7,
+          388.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1138,
+        "xyxy": [
+          634.7,
+          351.0,
+          679.1,
+          389.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x5"
+  },
+  {
+    "image": "frame_with_red_6945_jpg.rf.8c79f189a3a59182373e044a6d39a406.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4727,
+    "severity": "critical",
+    "defect_area_fraction": 0.05777,
+    "defects": {
+      "packaging-error": 1,
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.4727,
+        "xyxy": [
+          647.6,
+          343.6,
+          719.9,
+          430.8
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2629,
+        "xyxy": [
+          614.1,
+          349.2,
+          719.8,
+          462.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1204,
+        "xyxy": [
+          652.1,
+          342.5,
+          720.0,
+          403.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1, unsealed x2"
+  },
+  {
+    "image": "frame_with_red_6949_jpg.rf.85cdee789f77b41da873166aae7723ee.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7293,
+    "severity": "minor",
+    "defect_area_fraction": 0.00345,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.7293,
+        "xyxy": [
+          603.6,
+          382.4,
+          650.3,
+          411.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6950_jpg.rf.8ba6aa504287f84b09299939b54a4878.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2512,
+    "severity": "major",
+    "defect_area_fraction": 0.01153,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2512,
+        "xyxy": [
+          577.4,
+          400.8,
+          631.6,
+          422.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1827,
+        "xyxy": [
+          565.4,
+          399.9,
+          633.4,
+          425.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1416,
+        "xyxy": [
+          636.8,
+          403.1,
+          687.2,
+          435.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_6958_jpg.rf.02d8905f8e8f0aa430a50443be1e5bab.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4678,
+    "severity": "minor",
+    "defect_area_fraction": 0.00879,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4678,
+        "xyxy": [
+          590.5,
+          380.1,
+          651.9,
+          409.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1367,
+        "xyxy": [
+          705.4,
+          396.7,
+          719.9,
+          421.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1343,
+        "xyxy": [
+          611.6,
+          381.7,
+          652.9,
+          412.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_6959_jpg.rf.39ba7ab31540816c3dfa68bd65c3a08d.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8014,
+    "severity": "critical",
+    "defect_area_fraction": 0.10674,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8014,
+        "xyxy": [
+          503.8,
+          347.2,
+          719.5,
+          539.5
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6964_jpg.rf.25b0e4ef3f847b13b7d8d81db2404565.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8449,
+    "severity": "critical",
+    "defect_area_fraction": 0.16938,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8449,
+        "xyxy": [
+          0.0,
+          345.7,
+          339.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6971_jpg.rf.ba48684eb7e7133a785ae8b6b4d000f1.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8019,
+    "severity": "critical",
+    "defect_area_fraction": 0.08535,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8019,
+        "xyxy": [
+          550.5,
+          343.8,
+          719.7,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6976_jpg.rf.0c4f0821ef92fe455c3a36b5d747ce4b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.851,
+    "severity": "critical",
+    "defect_area_fraction": 0.14152,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.851,
+        "xyxy": [
+          0.0,
+          370.5,
+          324.5,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6981_jpg.rf.5ec1d636d3a6e239f4d6dea67a936920.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7744,
+    "severity": "critical",
+    "defect_area_fraction": 0.08909,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.7744,
+        "xyxy": [
+          540.5,
+          346.1,
+          719.6,
+          539.5
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6983_jpg.rf.d8a722522f057db72ce7786ebb19cbc2.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.782,
+    "severity": "critical",
+    "defect_area_fraction": 0.07144,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.782,
+        "xyxy": [
+          569.9,
+          353.9,
+          720.0,
+          539.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6993_jpg.rf.0c50df57b83c97468ee77ec86ebb60ac.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2219,
+    "severity": "minor",
+    "defect_area_fraction": 0.00102,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2219,
+        "xyxy": [
+          0.0,
+          425.0,
+          19.9,
+          444.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_6995_jpg.rf.23c0abf574e58253c948ce445b820020.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7962,
+    "severity": "critical",
+    "defect_area_fraction": 0.08462,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.7962,
+        "xyxy": [
+          557.0,
+          338.0,
+          719.9,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_6999_jpg.rf.1b3782e62a9df627ed20e478a6090e61.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5266,
+    "severity": "minor",
+    "defect_area_fraction": 0.00756,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5266,
+        "xyxy": [
+          598.4,
+          372.8,
+          634.4,
+          398.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2745,
+        "xyxy": [
+          682.8,
+          377.9,
+          720.0,
+          404.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.245,
+        "xyxy": [
+          698.7,
+          379.2,
+          720.0,
+          404.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1504,
+        "xyxy": [
+          704.0,
+          376.4,
+          720.0,
+          405.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_7001_jpg.rf.c8bc73d5a666d938f9379e88d886de88.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5037,
+    "severity": "critical",
+    "defect_area_fraction": 0.11915,
+    "defects": {
+      "packaging-error": 2,
+      "unsealed": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5037,
+        "xyxy": [
+          0.0,
+          341.8,
+          100.7,
+          397.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1839,
+        "xyxy": [
+          0.0,
+          338.1,
+          92.2,
+          411.1
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1813,
+        "xyxy": [
+          0.0,
+          339.2,
+          174.7,
+          455.0
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1649,
+        "xyxy": [
+          0.0,
+          340.1,
+          117.7,
+          424.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1067,
+        "xyxy": [
+          0.0,
+          344.1,
+          70.2,
+          399.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2, unsealed x3"
+  },
+  {
+    "image": "frame_with_red_7005_jpg.rf.3b50fc4323a867a99b4e457848eec173.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3183,
+    "severity": "critical",
+    "defect_area_fraction": 0.11268,
+    "defects": {
+      "packaging-error": 2,
+      "unsealed": 3
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.3183,
+        "xyxy": [
+          548.3,
+          416.1,
+          718.1,
+          482.0
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1841,
+        "xyxy": [
+          530.0,
+          402.9,
+          716.9,
+          494.5
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1756,
+        "xyxy": [
+          548.1,
+          404.7,
+          718.9,
+          469.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1369,
+        "xyxy": [
+          654.7,
+          386.6,
+          718.6,
+          426.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1278,
+        "xyxy": [
+          659.2,
+          386.0,
+          718.2,
+          417.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2, unsealed x3"
+  },
+  {
+    "image": "frame_with_red_7008_jpg.rf.6f5ebf66a4062ff69e3fcca46562098c.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1729,
+    "severity": "minor",
+    "defect_area_fraction": 0.00231,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1729,
+        "xyxy": [
+          705.3,
+          400.1,
+          720.0,
+          422.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.116,
+        "xyxy": [
+          695.3,
+          400.1,
+          719.8,
+          423.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_7011_jpg.rf.29508d21e9770bde8134e2046f5243cc.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1147,
+    "severity": "minor",
+    "defect_area_fraction": 0.00113,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1147,
+        "xyxy": [
+          708.3,
+          338.4,
+          720.0,
+          376.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_7018_jpg.rf.9eda3bff6774600ccf03968766af547f.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3576,
+    "severity": "minor",
+    "defect_area_fraction": 0.00313,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3576,
+        "xyxy": [
+          615.6,
+          333.4,
+          649.6,
+          369.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_7023_jpg.rf.470e1e991028369a15b948fdf061f236.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1639,
+    "severity": "minor",
+    "defect_area_fraction": 0.00271,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1639,
+        "xyxy": [
+          707.8,
+          392.3,
+          720.0,
+          426.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1068,
+        "xyxy": [
+          702.1,
+          391.6,
+          720.0,
+          427.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_7030_jpg.rf.25ac5ef78763f4b7def3f56153e93434.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2498,
+    "severity": "critical",
+    "defect_area_fraction": 0.10398,
+    "defects": {
+      "packaging-error": 3,
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2498,
+        "xyxy": [
+          585.9,
+          359.3,
+          693.8,
+          422.7
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.219,
+        "xyxy": [
+          565.3,
+          375.8,
+          720.0,
+          470.9
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1903,
+        "xyxy": [
+          559.0,
+          368.4,
+          715.4,
+          451.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1746,
+        "xyxy": [
+          612.5,
+          361.9,
+          688.5,
+          410.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1337,
+        "xyxy": [
+          628.9,
+          362.6,
+          682.5,
+          403.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3, unsealed x2"
+  },
+  {
+    "image": "frame_with_red_7032_jpg.rf.55734ddccac58f09083a5ec5b2fdd523.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7994,
+    "severity": "critical",
+    "defect_area_fraction": 0.11836,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.7994,
+        "xyxy": [
+          486.3,
+          343.1,
+          720.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8049_jpg.rf.03ce48e22c2a0682027195a3844d6221.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5427,
+    "severity": "minor",
+    "defect_area_fraction": 0.0046,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5427,
+        "xyxy": [
+          570.9,
+          371.6,
+          598.1,
+          396.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3393,
+        "xyxy": [
+          628.1,
+          373.6,
+          673.4,
+          397.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8050_jpg.rf.0beb521a81fc722452dbbb67286575d9.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3912,
+    "severity": "minor",
+    "defect_area_fraction": 0.00802,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3912,
+        "xyxy": [
+          559.8,
+          371.9,
+          601.7,
+          397.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2908,
+        "xyxy": [
+          698.3,
+          373.5,
+          720.0,
+          398.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1576,
+        "xyxy": [
+          555.7,
+          369.0,
+          605.2,
+          399.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8053_jpg.rf.181f18f3099441c4271d811c1d0db0bf.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4718,
+    "severity": "minor",
+    "defect_area_fraction": 0.00356,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4718,
+        "xyxy": [
+          624.1,
+          382.3,
+          656.4,
+          412.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2412,
+        "xyxy": [
+          700.7,
+          383.8,
+          719.8,
+          405.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8068_jpg.rf.9a46d4fe200da1edf02f5657bc702226.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5003,
+    "severity": "minor",
+    "defect_area_fraction": 0.00726,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5003,
+        "xyxy": [
+          62.2,
+          386.6,
+          100.3,
+          414.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1535,
+        "xyxy": [
+          56.0,
+          380.7,
+          103.7,
+          417.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8071_jpg.rf.1f317e101a187ef2fa742f99986868f8.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3361,
+    "severity": "minor",
+    "defect_area_fraction": 0.00316,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3361,
+        "xyxy": [
+          55.6,
+          415.3,
+          90.7,
+          450.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8073_jpg.rf.3c6ad8724aa38a053104e11d8635c946.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5187,
+    "severity": "minor",
+    "defect_area_fraction": 0.00271,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5187,
+        "xyxy": [
+          622.6,
+          373.3,
+          650.5,
+          411.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8076_jpg.rf.16a30ef5e6a7e7222a8b0baeb2ace86e.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3292,
+    "severity": "minor",
+    "defect_area_fraction": 0.0051,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3292,
+        "xyxy": [
+          593.1,
+          364.7,
+          634.9,
+          412.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8085_jpg.rf.0241577a4033922f6a370e7e1d50c1af.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3397,
+    "severity": "minor",
+    "defect_area_fraction": 0.00445,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3397,
+        "xyxy": [
+          612.5,
+          395.2,
+          650.7,
+          419.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1829,
+        "xyxy": [
+          560.1,
+          390.5,
+          601.5,
+          410.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8087_jpg.rf.4b9f18ea145b84c5e85817b00bd102de.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5446,
+    "severity": "minor",
+    "defect_area_fraction": 0.00474,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5446,
+        "xyxy": [
+          617.1,
+          372.8,
+          642.6,
+          394.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2279,
+        "xyxy": [
+          612.4,
+          372.0,
+          643.6,
+          397.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.125,
+        "xyxy": [
+          707.6,
+          391.5,
+          720.0,
+          429.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8088_jpg.rf.346f41fc53e41588ac5f035eb4e50498.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1564,
+    "severity": "minor",
+    "defect_area_fraction": 0.00404,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1564,
+        "xyxy": [
+          578.6,
+          386.7,
+          634.9,
+          408.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1362,
+        "xyxy": [
+          708.5,
+          393.8,
+          720.0,
+          424.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8096_jpg.rf.1b0fe8fd6aca1cfa76d32eca2e907401.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1968,
+    "severity": "major",
+    "defect_area_fraction": 0.01429,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1968,
+        "xyxy": [
+          589.0,
+          385.1,
+          672.7,
+          414.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1878,
+        "xyxy": [
+          607.3,
+          387.2,
+          672.3,
+          413.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1769,
+        "xyxy": [
+          705.4,
+          393.0,
+          719.9,
+          416.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1076,
+        "xyxy": [
+          628.3,
+          388.3,
+          672.7,
+          412.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_8113_jpg.rf.1ade00e9f00a0af5d0772e74618e7707.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5217,
+    "severity": "minor",
+    "defect_area_fraction": 0.00689,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5217,
+        "xyxy": [
+          584.1,
+          390.9,
+          625.0,
+          415.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1031,
+        "xyxy": [
+          581.2,
+          383.6,
+          627.1,
+          419.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8117_jpg.rf.04eb1e6b5436746a2aa9ec9c72a59f26.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8258,
+    "severity": "critical",
+    "defect_area_fraction": 0.20309,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8258,
+        "xyxy": [
+          0.0,
+          324.4,
+          366.3,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8125_jpg.rf.3963e1727e4fd26a2fb12d154f97992c.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3943,
+    "severity": "minor",
+    "defect_area_fraction": 0.00592,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3943,
+        "xyxy": [
+          583.0,
+          383.1,
+          637.8,
+          408.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3469,
+        "xyxy": [
+          656.1,
+          395.0,
+          678.7,
+          416.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1585,
+        "xyxy": [
+          706.2,
+          393.4,
+          720.0,
+          425.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8126_jpg.rf.c6811b952bb160b6320342ddca609be7.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.509,
+    "severity": "major",
+    "defect_area_fraction": 0.0308,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.509,
+        "xyxy": [
+          121.5,
+          366.7,
+          232.9,
+          412.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3519,
+        "xyxy": [
+          129.0,
+          367.5,
+          222.3,
+          404.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1271,
+        "xyxy": [
+          119.8,
+          378.0,
+          227.1,
+          409.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8130_jpg.rf.405ffa6d9c466f0c4ee07d1466630909.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4379,
+    "severity": "major",
+    "defect_area_fraction": 0.01621,
+    "defects": {
+      "packaging-error": 7
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4379,
+        "xyxy": [
+          61.6,
+          414.5,
+          89.8,
+          435.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3483,
+        "xyxy": [
+          187.9,
+          343.4,
+          249.2,
+          368.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2299,
+        "xyxy": [
+          191.4,
+          350.7,
+          242.1,
+          370.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1516,
+        "xyxy": [
+          204.1,
+          341.4,
+          249.0,
+          362.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1291,
+        "xyxy": [
+          59.8,
+          412.2,
+          87.5,
+          439.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1267,
+        "xyxy": [
+          0.0,
+          426.3,
+          27.3,
+          451.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1051,
+        "xyxy": [
+          0.0,
+          427.5,
+          36.1,
+          450.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x7"
+  },
+  {
+    "image": "frame_with_red_8133_jpg.rf.6b600d5601d2d9802e896ff41b944c42.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1483,
+    "severity": "minor",
+    "defect_area_fraction": 0.00111,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1483,
+        "xyxy": [
+          706.8,
+          349.8,
+          720.0,
+          382.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8134_jpg.rf.21032deb8748b05e636ea4689335fa60.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.321,
+    "severity": "major",
+    "defect_area_fraction": 0.03965,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.321,
+        "xyxy": [
+          573.1,
+          383.3,
+          719.4,
+          464.7
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1539,
+        "xyxy": [
+          637.7,
+          392.0,
+          719.7,
+          434.8
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8136_jpg.rf.1dd3369c570db5634ecc3ba9cfdc2a59.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2858,
+    "severity": "critical",
+    "defect_area_fraction": 0.14641,
+    "defects": {
+      "packaging-error": 2,
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.2858,
+        "xyxy": [
+          518.2,
+          304.2,
+          720.0,
+          434.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2281,
+        "xyxy": [
+          522.1,
+          304.9,
+          703.3,
+          382.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1357,
+        "xyxy": [
+          576.0,
+          302.5,
+          676.9,
+          361.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1018,
+        "xyxy": [
+          527.8,
+          299.5,
+          680.5,
+          369.6
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2, unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8137_jpg.rf.7c372c7747cf6be94afc622f7bce1d92.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1902,
+    "severity": "minor",
+    "defect_area_fraction": 0.00438,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1902,
+        "xyxy": [
+          572.1,
+          366.5,
+          636.7,
+          392.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8138_jpg.rf.1883e109b0a775b9570f75d9828b1317.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2594,
+    "severity": "minor",
+    "defect_area_fraction": 0.00988,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2594,
+        "xyxy": [
+          579.5,
+          386.5,
+          616.6,
+          425.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1769,
+        "xyxy": [
+          706.5,
+          392.1,
+          720.0,
+          418.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1348,
+        "xyxy": [
+          581.1,
+          392.0,
+          624.2,
+          427.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1103,
+        "xyxy": [
+          701.3,
+          393.6,
+          719.9,
+          420.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_8145_jpg.rf.004e8af5376f5c5db6c8544757cfcaf5.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5998,
+    "severity": "minor",
+    "defect_area_fraction": 0.00511,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5998,
+        "xyxy": [
+          599.3,
+          350.9,
+          631.9,
+          383.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2355,
+        "xyxy": [
+          707.5,
+          360.5,
+          720.0,
+          390.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1008,
+        "xyxy": [
+          702.7,
+          359.2,
+          720.0,
+          391.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8146_jpg.rf.a450e9c7be73cccfebf9a7ae85eeb715.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2686,
+    "severity": "critical",
+    "defect_area_fraction": 0.11906,
+    "defects": {
+      "unsealed": 3
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.2686,
+        "xyxy": [
+          541.4,
+          350.1,
+          720.0,
+          432.4
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1923,
+        "xyxy": [
+          527.9,
+          342.0,
+          720.0,
+          453.9
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1471,
+        "xyxy": [
+          561.1,
+          353.1,
+          719.7,
+          416.8
+        ]
+      }
+    ],
+    "message": "defects: unsealed x3"
+  },
+  {
+    "image": "frame_with_red_8148_jpg.rf.208cd994b13210bbe81b1288ee7b5f3b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2662,
+    "severity": "critical",
+    "defect_area_fraction": 0.11737,
+    "defects": {
+      "packaging-error": 5,
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2662,
+        "xyxy": [
+          556.8,
+          359.5,
+          610.8,
+          413.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2549,
+        "xyxy": [
+          535.0,
+          375.1,
+          718.7,
+          488.9
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2427,
+        "xyxy": [
+          544.4,
+          383.9,
+          720.0,
+          466.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.159,
+        "xyxy": [
+          706.4,
+          380.7,
+          720.0,
+          418.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1552,
+        "xyxy": [
+          551.0,
+          359.0,
+          618.3,
+          423.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.12,
+        "xyxy": [
+          698.8,
+          380.7,
+          720.0,
+          418.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1133,
+        "xyxy": [
+          569.6,
+          362.6,
+          604.4,
+          409.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x5, unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8161_jpg.rf.1e35233247b1328a20d664e82c7e95fd.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3568,
+    "severity": "minor",
+    "defect_area_fraction": 0.00813,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3568,
+        "xyxy": [
+          568.0,
+          349.3,
+          620.6,
+          375.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1139,
+        "xyxy": [
+          571.9,
+          348.2,
+          623.7,
+          382.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8170_jpg.rf.0c88a870c295c78221c7daf2416d40ef.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2138,
+    "severity": "critical",
+    "defect_area_fraction": 0.08098,
+    "defects": {
+      "packaging-error": 4,
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2138,
+        "xyxy": [
+          542.1,
+          343.7,
+          635.9,
+          394.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2104,
+        "xyxy": [
+          552.0,
+          349.0,
+          628.9,
+          383.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1759,
+        "xyxy": [
+          707.6,
+          373.4,
+          720.0,
+          409.8
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.125,
+        "xyxy": [
+          544.9,
+          389.9,
+          720.0,
+          464.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.123,
+        "xyxy": [
+          700.8,
+          372.6,
+          720.0,
+          411.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1103,
+        "xyxy": [
+          597.2,
+          383.4,
+          720.0,
+          463.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4, unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8171_jpg.rf.6d1e208339866ffdc3905f2bd33ea6be.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5994,
+    "severity": "minor",
+    "defect_area_fraction": 0.00207,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5994,
+        "xyxy": [
+          617.0,
+          356.2,
+          650.5,
+          380.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8175_jpg.rf.6f814f8009226e80b3f55e2e1ce2e9d2.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4756,
+    "severity": "minor",
+    "defect_area_fraction": 0.00361,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4756,
+        "xyxy": [
+          601.9,
+          343.5,
+          640.9,
+          379.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8182_jpg.rf.45c8c258b30a36db457e27e6957c7c88.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8052,
+    "severity": "critical",
+    "defect_area_fraction": 0.10292,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8052,
+        "xyxy": [
+          509.2,
+          349.5,
+          720.0,
+          539.4
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8183_jpg.rf.60d9bd0419ebc59f099bc98a3bb4c3fe.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8069,
+    "severity": "critical",
+    "defect_area_fraction": 0.10783,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8069,
+        "xyxy": [
+          481.6,
+          363.2,
+          720.0,
+          539.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8185_jpg.rf.0d669b66553d14ccbba5d93993124925.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4052,
+    "severity": "minor",
+    "defect_area_fraction": 0.00267,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4052,
+        "xyxy": [
+          629.3,
+          376.6,
+          671.0,
+          401.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8189_jpg.rf.c6bba5b2bea61c12a6e192deeb6522bd.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2456,
+    "severity": "critical",
+    "defect_area_fraction": 0.16315,
+    "defects": {
+      "packaging-error": 5,
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2456,
+        "xyxy": [
+          261.7,
+          364.7,
+          326.5,
+          398.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2412,
+        "xyxy": [
+          96.5,
+          381.9,
+          150.9,
+          406.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1795,
+        "xyxy": [
+          263.5,
+          365.6,
+          310.2,
+          398.0
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1442,
+        "xyxy": [
+          49.5,
+          390.2,
+          376.2,
+          496.1
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1418,
+        "xyxy": [
+          0.9,
+          397.6,
+          176.1,
+          481.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1329,
+        "xyxy": [
+          254.5,
+          357.6,
+          327.5,
+          402.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1156,
+        "xyxy": [
+          249.8,
+          351.5,
+          340.7,
+          416.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x5, unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8197_jpg.rf.02e9e36b68f60a55caa75ca1427ac9bb.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5465,
+    "severity": "minor",
+    "defect_area_fraction": 0.00687,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5465,
+        "xyxy": [
+          660.3,
+          389.4,
+          702.4,
+          414.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1012,
+        "xyxy": [
+          658.0,
+          384.8,
+          703.4,
+          420.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8198_jpg.rf.3c585105fbe5725db155d1e604c74900.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4919,
+    "severity": "minor",
+    "defect_area_fraction": 0.00813,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4919,
+        "xyxy": [
+          592.0,
+          362.7,
+          618.6,
+          391.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.4843,
+        "xyxy": [
+          658.0,
+          378.6,
+          708.1,
+          404.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1473,
+        "xyxy": [
+          584.1,
+          361.3,
+          621.9,
+          391.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8199_jpg.rf.6b3c6b2fc594bbc8241ca7d998086cad.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5443,
+    "severity": "minor",
+    "defect_area_fraction": 0.00368,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5443,
+        "xyxy": [
+          574.3,
+          378.1,
+          625.8,
+          405.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8201_jpg.rf.8005b35916118198bcecf532d9866594.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4247,
+    "severity": "minor",
+    "defect_area_fraction": 0.00259,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4247,
+        "xyxy": [
+          659.6,
+          349.7,
+          691.6,
+          381.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8202_jpg.rf.1d52469f2e401729fbbdbdb5881d91b2.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4346,
+    "severity": "major",
+    "defect_area_fraction": 0.01175,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4346,
+        "xyxy": [
+          547.5,
+          371.4,
+          597.0,
+          398.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3964,
+        "xyxy": [
+          541.3,
+          364.5,
+          601.1,
+          401.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2357,
+        "xyxy": [
+          707.2,
+          373.9,
+          720.0,
+          406.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1609,
+        "xyxy": [
+          701.4,
+          373.0,
+          720.0,
+          407.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_8208_jpg.rf.4656d0a5bebf6c4c06953f58cdf9f518.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5679,
+    "severity": "critical",
+    "defect_area_fraction": 0.10146,
+    "defects": {
+      "packaging-error": 1,
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.5679,
+        "xyxy": [
+          568.6,
+          358.5,
+          720.0,
+          452.0
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1247,
+        "xyxy": [
+          561.4,
+          356.9,
+          720.0,
+          486.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1039,
+        "xyxy": [
+          578.7,
+          354.2,
+          659.9,
+          412.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1, unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8210_jpg.rf.0ccb092524de0e5085ee5f9a1ffaed39.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5728,
+    "severity": "minor",
+    "defect_area_fraction": 0.00653,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5728,
+        "xyxy": [
+          606.7,
+          366.3,
+          678.6,
+          401.6
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8213_jpg.rf.217ef6576856e78cf5d6c8f73815942e.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0959,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_8214_jpg.rf.5acda82172bcf022bd7f017eb084474d.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5633,
+    "severity": "minor",
+    "defect_area_fraction": 0.00205,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5633,
+        "xyxy": [
+          568.6,
+          391.6,
+          601.1,
+          416.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8215_jpg.rf.02a7b9715c8b88ea308449ab5f633d53.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3873,
+    "severity": "minor",
+    "defect_area_fraction": 0.00286,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3873,
+        "xyxy": [
+          89.1,
+          356.1,
+          122.1,
+          389.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8220_jpg.rf.365e8313a187cc2a53f6c839481afdf0.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8409,
+    "severity": "critical",
+    "defect_area_fraction": 0.13313,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8409,
+        "xyxy": [
+          466.2,
+          336.0,
+          720.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8222_jpg.rf.253b64afb6b2776b01e153def5c4b7a6.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4969,
+    "severity": "minor",
+    "defect_area_fraction": 0.0092,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4969,
+        "xyxy": [
+          605.3,
+          370.8,
+          642.0,
+          399.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1304,
+        "xyxy": [
+          598.3,
+          367.7,
+          655.6,
+          411.6
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8230_jpg.rf.68b0dd16db69a5eae5d4a4893bc2fb48.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4105,
+    "severity": "critical",
+    "defect_area_fraction": 0.08031,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.4105,
+        "xyxy": [
+          567.3,
+          351.1,
+          719.4,
+          433.8
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.3395,
+        "xyxy": [
+          551.6,
+          333.4,
+          716.8,
+          446.3
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8235_jpg.rf.7a5220576f9ee2bb16ea4032fa5cffd0.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5343,
+    "severity": "minor",
+    "defect_area_fraction": 0.00707,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5343,
+        "xyxy": [
+          571.7,
+          347.8,
+          620.4,
+          385.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2876,
+        "xyxy": [
+          663.0,
+          365.7,
+          688.9,
+          401.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8242_jpg.rf.6224432d93f7c4cc4217e8d20d9edba3.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2491,
+    "severity": "critical",
+    "defect_area_fraction": 0.06201,
+    "defects": {
+      "packaging-error": 3,
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2491,
+        "xyxy": [
+          656.9,
+          382.6,
+          713.6,
+          435.7
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.143,
+        "xyxy": [
+          569.9,
+          381.8,
+          718.1,
+          481.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1149,
+        "xyxy": [
+          666.5,
+          388.6,
+          711.8,
+          434.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.108,
+        "xyxy": [
+          647.2,
+          383.7,
+          718.6,
+          442.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3, unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8254_jpg.rf.1e5aada8a0eec9febcc9f9053d0ca7d0.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4018,
+    "severity": "critical",
+    "defect_area_fraction": 0.1209,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.4018,
+        "xyxy": [
+          559.0,
+          342.4,
+          720.0,
+          538.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.2118,
+        "xyxy": [
+          570.9,
+          334.7,
+          717.9,
+          440.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_8266_jpg.rf.5b9faafc0c37bf853c99ea40c8a9e204.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3746,
+    "severity": "major",
+    "defect_area_fraction": 0.01677,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3746,
+        "xyxy": [
+          574.6,
+          346.3,
+          632.6,
+          391.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1699,
+        "xyxy": [
+          571.6,
+          343.7,
+          640.7,
+          400.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8270_jpg.rf.2820b388649dea68aa9d8032e8ee667a.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1719,
+    "severity": "minor",
+    "defect_area_fraction": 0.00499,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1719,
+        "xyxy": [
+          48.7,
+          342.1,
+          82.8,
+          365.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1118,
+        "xyxy": [
+          39.7,
+          339.5,
+          84.9,
+          364.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8272_jpg.rf.b37db0eb5a1e0cb0476703a9d4abd9cf.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4237,
+    "severity": "minor",
+    "defect_area_fraction": 0.00324,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4237,
+        "xyxy": [
+          645.3,
+          393.6,
+          684.5,
+          425.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8273_jpg.rf.86728d2d91c8d215952671d8217ee4e0.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2323,
+    "severity": "major",
+    "defect_area_fraction": 0.01153,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2323,
+        "xyxy": [
+          531.4,
+          364.7,
+          564.8,
+          405.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1843,
+        "xyxy": [
+          678.8,
+          390.6,
+          720.0,
+          423.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1396,
+        "xyxy": [
+          690.4,
+          393.5,
+          719.9,
+          424.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.113,
+        "xyxy": [
+          682.1,
+          398.8,
+          720.0,
+          422.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_8278_jpg.rf.16886b2ef38b6317d0a80eaa0fcc9c6f.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2253,
+    "severity": "critical",
+    "defect_area_fraction": 0.14546,
+    "defects": {
+      "packaging-error": 5,
+      "unsealed": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2253,
+        "xyxy": [
+          574.8,
+          338.3,
+          648.7,
+          406.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2057,
+        "xyxy": [
+          706.3,
+          355.9,
+          720.0,
+          392.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1877,
+        "xyxy": [
+          580.8,
+          345.5,
+          638.2,
+          395.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1587,
+        "xyxy": [
+          559.3,
+          357.7,
+          668.8,
+          417.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1383,
+        "xyxy": [
+          700.0,
+          356.2,
+          720.0,
+          393.5
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1273,
+        "xyxy": [
+          551.2,
+          359.0,
+          719.2,
+          467.9
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1212,
+        "xyxy": [
+          558.8,
+          353.7,
+          706.5,
+          445.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1173,
+        "xyxy": [
+          560.6,
+          344.3,
+          658.0,
+          424.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1078,
+        "xyxy": [
+          689.9,
+          359.2,
+          720.0,
+          401.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x5, unsealed x4"
+  },
+  {
+    "image": "frame_with_red_8284_jpg.rf.4d66c6aee13311e2f885225e38538874.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0519,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_8285_jpg.rf.0dc1b3cc681117f39b5e41a81a07715d.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5301,
+    "severity": "minor",
+    "defect_area_fraction": 0.00439,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5301,
+        "xyxy": [
+          588.8,
+          382.8,
+          621.8,
+          411.5
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.3932,
+        "xyxy": [
+          640.3,
+          391.3,
+          678.5,
+          411.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8286_jpg.rf.2c0b254b84d2c48570d4099052cfc136.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5196,
+    "severity": "minor",
+    "defect_area_fraction": 0.0056,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5196,
+        "xyxy": [
+          600.1,
+          384.1,
+          630.9,
+          419.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2629,
+        "xyxy": [
+          707.1,
+          383.3,
+          720.0,
+          416.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1632,
+        "xyxy": [
+          701.1,
+          382.1,
+          720.0,
+          417.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8289_jpg.rf.9166a7a73eade4094a16bc8739a3615f.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5821,
+    "severity": "minor",
+    "defect_area_fraction": 0.00322,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5821,
+        "xyxy": [
+          654.3,
+          388.6,
+          696.8,
+          418.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8290_jpg.rf.595614249cfa85b16759ce91dae651b0.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3514,
+    "severity": "critical",
+    "defect_area_fraction": 0.06211,
+    "defects": {
+      "packaging-error": 4,
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3514,
+        "xyxy": [
+          589.8,
+          361.2,
+          655.0,
+          413.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2648,
+        "xyxy": [
+          593.9,
+          363.9,
+          642.1,
+          405.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2273,
+        "xyxy": [
+          603.3,
+          366.1,
+          638.9,
+          404.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2133,
+        "xyxy": [
+          583.1,
+          357.5,
+          667.8,
+          421.2
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1095,
+        "xyxy": [
+          574.0,
+          379.5,
+          719.8,
+          461.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4, unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8292_jpg.rf.289981fccced7f69f4857e19ae98e2be.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1703,
+    "severity": "minor",
+    "defect_area_fraction": 0.00256,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1703,
+        "xyxy": [
+          0.0,
+          399.2,
+          10.8,
+          430.4
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1063,
+        "xyxy": [
+          0.0,
+          396.0,
+          16.4,
+          436.2
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8300_jpg.rf.77dd753ab8aea17b6db5362eaf3c02e1.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3746,
+    "severity": "minor",
+    "defect_area_fraction": 0.00642,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3746,
+        "xyxy": [
+          629.6,
+          332.1,
+          680.9,
+          361.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1674,
+        "xyxy": [
+          641.9,
+          335.0,
+          679.0,
+          362.1
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8302_jpg.rf.9345977417ac4154f825ee883fe93b34.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4744,
+    "severity": "minor",
+    "defect_area_fraction": 0.00251,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4744,
+        "xyxy": [
+          626.0,
+          371.1,
+          660.2,
+          399.6
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8304_jpg.rf.15c5ef983826380a1ab4e809cba207fb.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.48,
+    "severity": "major",
+    "defect_area_fraction": 0.03567,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.48,
+        "xyxy": [
+          594.4,
+          325.0,
+          720.0,
+          435.4
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8310_jpg.rf.b59d83e398cc0bb9645a0c16783ebbbf.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0663,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_8314_jpg.rf.3b185b88f9d84d51a8678fb6a78eea56.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3983,
+    "severity": "minor",
+    "defect_area_fraction": 0.00346,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3983,
+        "xyxy": [
+          565.0,
+          402.0,
+          596.4,
+          424.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1771,
+        "xyxy": [
+          679.7,
+          399.6,
+          707.8,
+          422.9
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8321_jpg.rf.28c6d0477cee409fa24c22811672fc66.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3228,
+    "severity": "minor",
+    "defect_area_fraction": 0.00245,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3228,
+        "xyxy": [
+          114.3,
+          337.5,
+          146.5,
+          367.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8322_jpg.rf.902b56407724443f40b0a10ddd8b9eeb.jpg",
+    "decision": "PASS",
+    "fail_score": 0.0676,
+    "severity": "none",
+    "defect_area_fraction": 0.0,
+    "defects": {},
+    "detections": [],
+    "message": "no defect above confidence 0.10"
+  },
+  {
+    "image": "frame_with_red_8323_jpg.rf.47aa5fb2864a7e842ba7eeb2168c2eef.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2343,
+    "severity": "minor",
+    "defect_area_fraction": 0.00397,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.2343,
+        "xyxy": [
+          660.6,
+          411.2,
+          691.2,
+          435.7
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2001,
+        "xyxy": [
+          591.1,
+          416.6,
+          618.3,
+          445.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8324_jpg.rf.25310f3b03e6bd1da8d213315a116fea.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3095,
+    "severity": "minor",
+    "defect_area_fraction": 0.0036,
+    "defects": {
+      "packaging-error": 3
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3095,
+        "xyxy": [
+          580.6,
+          388.2,
+          606.0,
+          411.2
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1641,
+        "xyxy": [
+          708.3,
+          387.6,
+          720.0,
+          416.3
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1088,
+        "xyxy": [
+          704.8,
+          388.6,
+          719.9,
+          420.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x3"
+  },
+  {
+    "image": "frame_with_red_8326_jpg.rf.49e60ddc5277061c0536d7c8305516f7.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3991,
+    "severity": "minor",
+    "defect_area_fraction": 0.00442,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3991,
+        "xyxy": [
+          597.5,
+          375.3,
+          651.2,
+          398.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1594,
+        "xyxy": [
+          706.0,
+          381.6,
+          720.0,
+          414.0
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8335_jpg.rf.4f002a92b9e51b421fe80a0bb4145ebe.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5954,
+    "severity": "minor",
+    "defect_area_fraction": 0.00528,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5954,
+        "xyxy": [
+          608.4,
+          367.5,
+          674.2,
+          398.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_8337_jpg.rf.62df5e8671f3272c3a81cd68051bed85.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3141,
+    "severity": "major",
+    "defect_area_fraction": 0.04228,
+    "defects": {
+      "packaging-error": 2,
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.3141,
+        "xyxy": [
+          575.6,
+          331.0,
+          719.3,
+          439.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.2182,
+        "xyxy": [
+          706.7,
+          329.4,
+          720.0,
+          358.0
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1448,
+        "xyxy": [
+          702.1,
+          328.6,
+          719.9,
+          359.4
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2, unsealed x1"
+  },
+  {
+    "image": "frame_with_red_8349_jpg.rf.1bacc7d7007b83cf2f9b095d9b7c98c0.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.3964,
+    "severity": "minor",
+    "defect_area_fraction": 0.00652,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.3964,
+        "xyxy": [
+          662.4,
+          376.8,
+          692.4,
+          411.1
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1182,
+        "xyxy": [
+          658.6,
+          374.7,
+          695.5,
+          415.5
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_8350_jpg.rf.0530a581e828431c1302f7cf90b0980b.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.5309,
+    "severity": "minor",
+    "defect_area_fraction": 0.00762,
+    "defects": {
+      "packaging-error": 2
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.5309,
+        "xyxy": [
+          639.4,
+          367.7,
+          682.6,
+          395.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1543,
+        "xyxy": [
+          638.0,
+          366.6,
+          686.6,
+          402.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x2"
+  },
+  {
+    "image": "frame_with_red_9298_jpg.rf.21a2bab004df93fc7b60192ce42f251a.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4849,
+    "severity": "major",
+    "defect_area_fraction": 0.04543,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.4849,
+        "xyxy": [
+          581.0,
+          308.1,
+          720.0,
+          435.1
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_9300_jpg.rf.b85ccc6ecd8ac14c935463fcc1000580.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.8443,
+    "severity": "critical",
+    "defect_area_fraction": 0.13639,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.8443,
+        "xyxy": [
+          466.1,
+          331.2,
+          720.0,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_9304_jpg.rf.a6b0533d26e5ab2ba341e5900ccd806d.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4558,
+    "severity": "minor",
+    "defect_area_fraction": 0.00214,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4558,
+        "xyxy": [
+          564.9,
+          395.3,
+          592.2,
+          425.8
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  },
+  {
+    "image": "frame_with_red_9311_jpg.rf.42e8694a15dd5e3b34efec4e1e659be3.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.2468,
+    "severity": "critical",
+    "defect_area_fraction": 0.05939,
+    "defects": {
+      "unsealed": 2
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.2468,
+        "xyxy": [
+          590.2,
+          345.1,
+          720.0,
+          411.3
+        ]
+      },
+      {
+        "class": "unsealed",
+        "conf": 0.1149,
+        "xyxy": [
+          569.6,
+          324.6,
+          720.0,
+          421.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x2"
+  },
+  {
+    "image": "frame_with_red_9312_jpg.rf.3c87db500169c4cde9bf3c4a4d3c90bd.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.7897,
+    "severity": "critical",
+    "defect_area_fraction": 0.12087,
+    "defects": {
+      "unsealed": 1
+    },
+    "detections": [
+      {
+        "class": "unsealed",
+        "conf": 0.7897,
+        "xyxy": [
+          495.4,
+          330.3,
+          719.5,
+          540.0
+        ]
+      }
+    ],
+    "message": "defects: unsealed x1"
+  },
+  {
+    "image": "frame_with_red_9320_jpg.rf.3c4b1309975369130918474ecb0b332c.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.4187,
+    "severity": "major",
+    "defect_area_fraction": 0.01059,
+    "defects": {
+      "packaging-error": 4
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.4187,
+        "xyxy": [
+          620.7,
+          382.0,
+          659.9,
+          412.6
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1815,
+        "xyxy": [
+          620.9,
+          383.2,
+          668.5,
+          416.9
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1249,
+        "xyxy": [
+          618.5,
+          381.9,
+          651.0,
+          410.8
+        ]
+      },
+      {
+        "class": "packaging-error",
+        "conf": 0.1227,
+        "xyxy": [
+          707.5,
+          401.7,
+          720.0,
+          431.7
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x4"
+  },
+  {
+    "image": "frame_with_red_9662_jpg.rf.2b53b5e89de2f3edc8117f26176fce98.jpg",
+    "decision": "FAIL",
+    "fail_score": 0.1356,
+    "severity": "minor",
+    "defect_area_fraction": 0.00081,
+    "defects": {
+      "packaging-error": 1
+    },
+    "detections": [
+      {
+        "class": "packaging-error",
+        "conf": 0.1356,
+        "xyxy": [
+          708.2,
+          406.7,
+          720.0,
+          433.3
+        ]
+      }
+    ],
+    "message": "defects: packaging-error x1"
+  }
+]

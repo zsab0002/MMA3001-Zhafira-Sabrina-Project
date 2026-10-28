@@ -1,0 +1,189 @@
+image,decision,fail_score,severity,defect_area_fraction,defects,message
+frame_with_red_10184_jpg.rf.3921c247b0f70de53d7a91e2f8e0a7fa.jpg,FAIL,0.368,minor,0.00616,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_10190_jpg.rf.4a1bdbc5852952b5ac9bf3507713e717.jpg,FAIL,0.7018,major,0.01015,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_10200_jpg.rf.1d9df6442fa3c77c330f1171dc5a096b.jpg,FAIL,0.2345,major,0.0347,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_10436_jpg.rf.02986531660d35f41ed781b286e6162b.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_10496_jpg.rf.afa7ed92a6aad350b68a9c612487581a.jpg,FAIL,0.5444,minor,0.00207,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_10498_jpg.rf.46f961e0842f830cde8d54fb85ecf590.jpg,PASS,0.0174,none,0.0,{},no defect above confidence 0.10
+frame_with_red_10500_jpg.rf.198691f222069b5e7a8951af406d07fc.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_10514_jpg.rf.17e54bc27f4cddd631ae1612881e11bd.jpg,FAIL,0.2561,minor,0.00361,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_10532_jpg.rf.19bd6a4439467851b0d571302d2756ef.jpg,PASS,0.0189,none,0.0,{},no defect above confidence 0.10
+frame_with_red_10552_jpg.rf.1f8ef43069bb10482f44c98f6aea6990.jpg,PASS,0.0246,none,0.0,{},no defect above confidence 0.10
+frame_with_red_3117_jpg.rf.f7143bc7a934176ecafb9727e3c2642b.jpg,FAIL,0.159,critical,0.19306,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_3613_jpg.rf.1ed0f21e31122bbd73cb2fc03343c796.jpg,FAIL,0.2591,major,0.04454,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_4135_jpg.rf.1a89074e38ef3c0cbda3ff7e79680817.jpg,FAIL,0.8474,critical,0.13626,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_4145_jpg.rf.26217bb5cebff04bbf9e18485dad08a8.jpg,FAIL,0.349,critical,0.15929,"{""packaging-error"": 2, ""unsealed"": 5}","defects: packaging-error x2, unsealed x5"
+frame_with_red_4158_jpg.rf.1ba1ddb2ef00c61a1557b501faac4e4f.jpg,PASS,0.0117,none,0.0,{},no defect above confidence 0.10
+frame_with_red_4159_jpg.rf.58644d009dfd802c651ad64b76c1fd55.jpg,FAIL,0.4706,critical,0.13809,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_4165_jpg.rf.0d3a2028c74c8bd056c87c4e86304150.jpg,FAIL,0.8,critical,0.17168,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_4167_jpg.rf.5f54097ae177c1a39e8f30373753fe8d.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_4170_jpg.rf.d8c8752306e12c3db16b1e549e58179b.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_4173_jpg.rf.34c4db72abd5b4c844840347775b218a.jpg,FAIL,0.8068,critical,0.12893,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_4183_jpg.rf.6be25c6daa5b6944f27591559a028c89.jpg,FAIL,0.8321,critical,0.11678,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_4185_jpg.rf.6c56f904f61675bfef51b8fcaf984716.jpg,FAIL,0.8126,critical,0.10694,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_4186_jpg.rf.7646aa80fff781ff310d0c30d18cc581.jpg,FAIL,0.3371,critical,0.08296,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_5146_jpg.rf.d4168232d3518a790c5f3642113e2aca.jpg,FAIL,0.1262,major,0.01135,"{""loose-meat"": 1}",defects: loose-meat x1
+frame_with_red_5165_jpg.rf.61e5f0babd58eea0a436f49cef60d88b.jpg,FAIL,0.344,critical,0.05014,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_5167_jpg.rf.11b37715a59bd716c01de294da21f897.jpg,FAIL,0.4919,critical,0.18199,"{""unsealed"": 3}",defects: unsealed x3
+frame_with_red_5175_jpg.rf.50715d54b118e77ad52884ae8d0bf179.jpg,FAIL,0.4815,minor,0.00355,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_5820_jpg.rf.6f9a450da075eddc7dca6e43bfb4178d.jpg,PASS,0.0118,none,0.0,{},no defect above confidence 0.10
+frame_with_red_5830_jpg.rf.33f543e7f0549d99c83effd8dff98485.jpg,PASS,0.0536,none,0.0,{},no defect above confidence 0.10
+frame_with_red_5835_jpg.rf.01ea1b628b25d7127a2399d88f9250e2.jpg,FAIL,0.1321,minor,0.00277,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_5849_jpg.rf.4cdf1fef179bfc4b9e2c0dcf16ddef4a.jpg,FAIL,0.8538,critical,0.1702,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_5856_jpg.rf.057f9df9f8fe7cc546aa0d42c17bda91.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_5859_jpg.rf.86dc5555f35b4b326390a5b03004d6cf.jpg,PASS,0.015,none,0.0,{},no defect above confidence 0.10
+frame_with_red_5871_jpg.rf.345ad6e5c7fd47e0ea51ffe7ae791886.jpg,FAIL,0.372,major,0.01179,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_5927_jpg.rf.480c6ce5a4d6b5979ee26ac0601e4f02.jpg,PASS,0.0196,none,0.0,{},no defect above confidence 0.10
+frame_with_red_5941_jpg.rf.62d2b44e363eeb805da80b6a3b167d87.jpg,FAIL,0.8238,critical,0.12254,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_5946_jpg.rf.600fa060f3fcb3c63b0591df18312504.jpg,FAIL,0.8744,critical,0.1549,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_5956_jpg.rf.55fa4583f490150dc3efc9d9b47aa3ef.jpg,FAIL,0.4055,minor,0.0019,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_5957_jpg.rf.30e6651150dcf4e4c76a28db760825e9.jpg,FAIL,0.5296,minor,0.00302,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_5965_jpg.rf.16951e088dfdac5f5979b6d1c0738b0c.jpg,FAIL,0.848,critical,0.10795,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_5967_jpg.rf.26a7ed8e14c4de06b4ce1f1ca99674f8.jpg,PASS,0.0264,none,0.0,{},no defect above confidence 0.10
+frame_with_red_6721_jpg.rf.9a53b4ed63cfa729f1a10f1a5979e3cd.jpg,FAIL,0.4787,minor,0.0088,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_6730_jpg.rf.675735248f982712a28e1d3c6fbe13cc.jpg,FAIL,0.613,minor,0.00195,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6733_jpg.rf.1218b8104b1f9a63e88f5d6496bf0b5c.jpg,FAIL,0.5269,minor,0.00505,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_6752_jpg.rf.9d8fbf34fcbba6241dae2c36b032ad59.jpg,FAIL,0.7965,critical,0.1183,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6754_jpg.rf.36327bd9b40ed1f06d59a8b4e8b86f16.jpg,FAIL,0.4714,major,0.0129,"{""packaging-error"": 6}",defects: packaging-error x6
+frame_with_red_6761_jpg.rf.408aa7addbaa4f62823738834329ab98.jpg,FAIL,0.4482,minor,0.00371,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6764_jpg.rf.265947dd4170bb57789ebc724738a4a3.jpg,FAIL,0.5704,minor,0.00384,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6765_jpg.rf.0c9b54a590649d85104de47bcab19eda.jpg,FAIL,0.5267,major,0.01414,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_6774_jpg.rf.3e1e4e66571e1247142366667315aa63.jpg,FAIL,0.471,minor,0.0057,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_6777_jpg.rf.4b75d87d6809064b027e0e2ebead61d6.jpg,FAIL,0.367,minor,0.00357,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6779_jpg.rf.9acc5de4c27ae7f6867f5cff19c0b78e.jpg,FAIL,0.2673,minor,0.00291,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6782_jpg.rf.03f08977419b1ed4be5d6e043c34c665.jpg,FAIL,0.4173,critical,0.05266,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6784_jpg.rf.1192de36934a414ac046abc8b80a7465.jpg,FAIL,0.1476,minor,0.00173,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6786_jpg.rf.69186cb41f72967cd8cac86eca912866.jpg,FAIL,0.539,minor,0.00157,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6789_jpg.rf.6b53577b2f9bc7d7888d2a8a36a1e9b3.jpg,FAIL,0.7924,critical,0.09994,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6806_jpg.rf.54efcbe5bd751a8b2873d85fc68d2ce0.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_6818_jpg.rf.0b9f5e6e5a97463b3ea95cfbb3dce859.jpg,FAIL,0.4029,minor,0.00834,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_6820_jpg.rf.6cb2a147fc31816c5107454ac5e1d996.jpg,FAIL,0.204,critical,0.22803,"{""packaging-error"": 3, ""unsealed"": 3}","defects: packaging-error x3, unsealed x3"
+frame_with_red_6821_jpg.rf.363b8544192846057d6cadab6515d59b.jpg,FAIL,0.4932,minor,0.008,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6825_jpg.rf.16ab96b122334c72f8cc48d465a455ff.jpg,FAIL,0.19,minor,0.00767,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6826_jpg.rf.1b6eacc6a0470b5b9e8d4cc59fcb7847.jpg,FAIL,0.2938,major,0.02357,"{""packaging-error"": 6}",defects: packaging-error x6
+frame_with_red_6827_jpg.rf.3436ace6a39f1fb8d8bf43b2dfd8ac5a.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_6831_jpg.rf.33cf2fc8e602fffa05e812ea15d25361.jpg,FAIL,0.4221,major,0.02904,"{""packaging-error"": 7}",defects: packaging-error x7
+frame_with_red_6844_jpg.rf.34759b33837dcdd0386d724a379c9b38.jpg,FAIL,0.4903,minor,0.00565,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6847_jpg.rf.d7bb1ffb1f852abf1e9cee0800827227.jpg,FAIL,0.3409,minor,0.00232,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6849_jpg.rf.16eafc31da898d8a7f5d7f100c0f6633.jpg,FAIL,0.6613,minor,0.00997,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6850_jpg.rf.487a26cc2c8d08ecebbcdf5007873c48.jpg,FAIL,0.5259,major,0.01193,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6852_jpg.rf.04a9fc5d0badfdd9de21929e8a95cee4.jpg,FAIL,0.4618,minor,0.00479,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6861_jpg.rf.113cb49327fd5cb23aeb4685cae08991.jpg,FAIL,0.8216,critical,0.09739,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6868_jpg.rf.a99350ef762d12ed074d4f35432747a4.jpg,FAIL,0.8438,critical,0.18946,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6870_jpg.rf.0c05f0fab5dad50e890c1adc185ba251.jpg,FAIL,0.2698,minor,0.00234,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6874_jpg.rf.1421fe5a2bb9eb6d4c62bb05834e2ca0.jpg,FAIL,0.8615,critical,0.11355,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6878_jpg.rf.66377132a48337150fc4434fe920fbbd.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_6879_jpg.rf.3bea88da85094e1fb126b496c021c14b.jpg,FAIL,0.517,minor,0.00739,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6884_jpg.rf.08ecfe41a1c7206e65634809f467f67e.jpg,FAIL,0.3863,critical,0.08303,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_6888_jpg.rf.7ba849ac28ea9c7de12f18bbc5a7770d.jpg,FAIL,0.1002,minor,0.0014,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6891_jpg.rf.138eefe7b757315c3fa5041527ecddd3.jpg,FAIL,0.1679,minor,0.0028,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6898_jpg.rf.02dcd3f8f22441577154093e19ebf02c.jpg,PASS,0.0172,none,0.0,{},no defect above confidence 0.10
+frame_with_red_6901_jpg.rf.23c8c693fe54b321f9c94a9d4d0caff5.jpg,PASS,0.0,none,0.0,{},no defect above confidence 0.10
+frame_with_red_6915_jpg.rf.48b8195887fc5ffddd758dc61642e1e4.jpg,FAIL,0.1355,minor,0.0012,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6916_jpg.rf.13e2c5a68bafdcb4bdd4255a41791fc4.jpg,FAIL,0.5806,minor,0.00451,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6920_jpg.rf.105ad7c5ea4eac68999b17fcd4ed817d.jpg,FAIL,0.3298,major,0.01261,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6921_jpg.rf.4a381cd3a6649864c49413007a39b200.jpg,FAIL,0.4216,major,0.01059,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_6926_jpg.rf.37ec172c27d5aa72131ea2cd4049b2d6.jpg,FAIL,0.6217,minor,0.00266,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6928_jpg.rf.9c554c8eb8a0f4d881230ff1eb8cbb37.jpg,FAIL,0.3816,minor,0.00408,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6938_jpg.rf.01b4f4310c6f9783df17fb6fc6a49d5e.jpg,FAIL,0.4233,major,0.01918,"{""packaging-error"": 5}",defects: packaging-error x5
+frame_with_red_6945_jpg.rf.8c79f189a3a59182373e044a6d39a406.jpg,FAIL,0.4727,critical,0.05777,"{""packaging-error"": 1, ""unsealed"": 2}","defects: packaging-error x1, unsealed x2"
+frame_with_red_6949_jpg.rf.85cdee789f77b41da873166aae7723ee.jpg,FAIL,0.7293,minor,0.00345,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6950_jpg.rf.8ba6aa504287f84b09299939b54a4878.jpg,FAIL,0.2512,major,0.01153,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_6958_jpg.rf.02d8905f8e8f0aa430a50443be1e5bab.jpg,FAIL,0.4678,minor,0.00879,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_6959_jpg.rf.39ba7ab31540816c3dfa68bd65c3a08d.jpg,FAIL,0.8014,critical,0.10674,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6964_jpg.rf.25b0e4ef3f847b13b7d8d81db2404565.jpg,FAIL,0.8449,critical,0.16938,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6971_jpg.rf.ba48684eb7e7133a785ae8b6b4d000f1.jpg,FAIL,0.8019,critical,0.08535,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6976_jpg.rf.0c4f0821ef92fe455c3a36b5d747ce4b.jpg,FAIL,0.851,critical,0.14152,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6981_jpg.rf.5ec1d636d3a6e239f4d6dea67a936920.jpg,FAIL,0.7744,critical,0.08909,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6983_jpg.rf.d8a722522f057db72ce7786ebb19cbc2.jpg,FAIL,0.782,critical,0.07144,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6993_jpg.rf.0c50df57b83c97468ee77ec86ebb60ac.jpg,FAIL,0.2219,minor,0.00102,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_6995_jpg.rf.23c0abf574e58253c948ce445b820020.jpg,FAIL,0.7962,critical,0.08462,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_6999_jpg.rf.1b3782e62a9df627ed20e478a6090e61.jpg,FAIL,0.5266,minor,0.00756,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_7001_jpg.rf.c8bc73d5a666d938f9379e88d886de88.jpg,FAIL,0.5037,critical,0.11915,"{""packaging-error"": 2, ""unsealed"": 3}","defects: packaging-error x2, unsealed x3"
+frame_with_red_7005_jpg.rf.3b50fc4323a867a99b4e457848eec173.jpg,FAIL,0.3183,critical,0.11268,"{""packaging-error"": 2, ""unsealed"": 3}","defects: packaging-error x2, unsealed x3"
+frame_with_red_7008_jpg.rf.6f5ebf66a4062ff69e3fcca46562098c.jpg,FAIL,0.1729,minor,0.00231,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_7011_jpg.rf.29508d21e9770bde8134e2046f5243cc.jpg,FAIL,0.1147,minor,0.00113,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_7018_jpg.rf.9eda3bff6774600ccf03968766af547f.jpg,FAIL,0.3576,minor,0.00313,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_7023_jpg.rf.470e1e991028369a15b948fdf061f236.jpg,FAIL,0.1639,minor,0.00271,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_7030_jpg.rf.25ac5ef78763f4b7def3f56153e93434.jpg,FAIL,0.2498,critical,0.10398,"{""packaging-error"": 3, ""unsealed"": 2}","defects: packaging-error x3, unsealed x2"
+frame_with_red_7032_jpg.rf.55734ddccac58f09083a5ec5b2fdd523.jpg,FAIL,0.7994,critical,0.11836,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_8049_jpg.rf.03ce48e22c2a0682027195a3844d6221.jpg,FAIL,0.5427,minor,0.0046,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8050_jpg.rf.0beb521a81fc722452dbbb67286575d9.jpg,FAIL,0.3912,minor,0.00802,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8053_jpg.rf.181f18f3099441c4271d811c1d0db0bf.jpg,FAIL,0.4718,minor,0.00356,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8068_jpg.rf.9a46d4fe200da1edf02f5657bc702226.jpg,FAIL,0.5003,minor,0.00726,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8071_jpg.rf.1f317e101a187ef2fa742f99986868f8.jpg,FAIL,0.3361,minor,0.00316,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8073_jpg.rf.3c6ad8724aa38a053104e11d8635c946.jpg,FAIL,0.5187,minor,0.00271,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8076_jpg.rf.16a30ef5e6a7e7222a8b0baeb2ace86e.jpg,FAIL,0.3292,minor,0.0051,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8085_jpg.rf.0241577a4033922f6a370e7e1d50c1af.jpg,FAIL,0.3397,minor,0.00445,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8087_jpg.rf.4b9f18ea145b84c5e85817b00bd102de.jpg,FAIL,0.5446,minor,0.00474,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8088_jpg.rf.346f41fc53e41588ac5f035eb4e50498.jpg,FAIL,0.1564,minor,0.00404,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8096_jpg.rf.1b0fe8fd6aca1cfa76d32eca2e907401.jpg,FAIL,0.1968,major,0.01429,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_8113_jpg.rf.1ade00e9f00a0af5d0772e74618e7707.jpg,FAIL,0.5217,minor,0.00689,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8117_jpg.rf.04eb1e6b5436746a2aa9ec9c72a59f26.jpg,FAIL,0.8258,critical,0.20309,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_8125_jpg.rf.3963e1727e4fd26a2fb12d154f97992c.jpg,FAIL,0.3943,minor,0.00592,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8126_jpg.rf.c6811b952bb160b6320342ddca609be7.jpg,FAIL,0.509,major,0.0308,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8130_jpg.rf.405ffa6d9c466f0c4ee07d1466630909.jpg,FAIL,0.4379,major,0.01621,"{""packaging-error"": 7}",defects: packaging-error x7
+frame_with_red_8133_jpg.rf.6b600d5601d2d9802e896ff41b944c42.jpg,FAIL,0.1483,minor,0.00111,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8134_jpg.rf.21032deb8748b05e636ea4689335fa60.jpg,FAIL,0.321,major,0.03965,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_8136_jpg.rf.1dd3369c570db5634ecc3ba9cfdc2a59.jpg,FAIL,0.2858,critical,0.14641,"{""packaging-error"": 2, ""unsealed"": 2}","defects: packaging-error x2, unsealed x2"
+frame_with_red_8137_jpg.rf.7c372c7747cf6be94afc622f7bce1d92.jpg,FAIL,0.1902,minor,0.00438,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8138_jpg.rf.1883e109b0a775b9570f75d9828b1317.jpg,FAIL,0.2594,minor,0.00988,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_8145_jpg.rf.004e8af5376f5c5db6c8544757cfcaf5.jpg,FAIL,0.5998,minor,0.00511,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8146_jpg.rf.a450e9c7be73cccfebf9a7ae85eeb715.jpg,FAIL,0.2686,critical,0.11906,"{""unsealed"": 3}",defects: unsealed x3
+frame_with_red_8148_jpg.rf.208cd994b13210bbe81b1288ee7b5f3b.jpg,FAIL,0.2662,critical,0.11737,"{""packaging-error"": 5, ""unsealed"": 2}","defects: packaging-error x5, unsealed x2"
+frame_with_red_8161_jpg.rf.1e35233247b1328a20d664e82c7e95fd.jpg,FAIL,0.3568,minor,0.00813,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8170_jpg.rf.0c88a870c295c78221c7daf2416d40ef.jpg,FAIL,0.2138,critical,0.08098,"{""packaging-error"": 4, ""unsealed"": 2}","defects: packaging-error x4, unsealed x2"
+frame_with_red_8171_jpg.rf.6d1e208339866ffdc3905f2bd33ea6be.jpg,FAIL,0.5994,minor,0.00207,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8175_jpg.rf.6f814f8009226e80b3f55e2e1ce2e9d2.jpg,FAIL,0.4756,minor,0.00361,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8182_jpg.rf.45c8c258b30a36db457e27e6957c7c88.jpg,FAIL,0.8052,critical,0.10292,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_8183_jpg.rf.60d9bd0419ebc59f099bc98a3bb4c3fe.jpg,FAIL,0.8069,critical,0.10783,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_8185_jpg.rf.0d669b66553d14ccbba5d93993124925.jpg,FAIL,0.4052,minor,0.00267,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8189_jpg.rf.c6bba5b2bea61c12a6e192deeb6522bd.jpg,FAIL,0.2456,critical,0.16315,"{""packaging-error"": 5, ""unsealed"": 2}","defects: packaging-error x5, unsealed x2"
+frame_with_red_8197_jpg.rf.02e9e36b68f60a55caa75ca1427ac9bb.jpg,FAIL,0.5465,minor,0.00687,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8198_jpg.rf.3c585105fbe5725db155d1e604c74900.jpg,FAIL,0.4919,minor,0.00813,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8199_jpg.rf.6b3c6b2fc594bbc8241ca7d998086cad.jpg,FAIL,0.5443,minor,0.00368,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8201_jpg.rf.8005b35916118198bcecf532d9866594.jpg,FAIL,0.4247,minor,0.00259,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8202_jpg.rf.1d52469f2e401729fbbdbdb5881d91b2.jpg,FAIL,0.4346,major,0.01175,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_8208_jpg.rf.4656d0a5bebf6c4c06953f58cdf9f518.jpg,FAIL,0.5679,critical,0.10146,"{""packaging-error"": 1, ""unsealed"": 2}","defects: packaging-error x1, unsealed x2"
+frame_with_red_8210_jpg.rf.0ccb092524de0e5085ee5f9a1ffaed39.jpg,FAIL,0.5728,minor,0.00653,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8213_jpg.rf.217ef6576856e78cf5d6c8f73815942e.jpg,PASS,0.0959,none,0.0,{},no defect above confidence 0.10
+frame_with_red_8214_jpg.rf.5acda82172bcf022bd7f017eb084474d.jpg,FAIL,0.5633,minor,0.00205,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8215_jpg.rf.02a7b9715c8b88ea308449ab5f633d53.jpg,FAIL,0.3873,minor,0.00286,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8220_jpg.rf.365e8313a187cc2a53f6c839481afdf0.jpg,FAIL,0.8409,critical,0.13313,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_8222_jpg.rf.253b64afb6b2776b01e153def5c4b7a6.jpg,FAIL,0.4969,minor,0.0092,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8230_jpg.rf.68b0dd16db69a5eae5d4a4893bc2fb48.jpg,FAIL,0.4105,critical,0.08031,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_8235_jpg.rf.7a5220576f9ee2bb16ea4032fa5cffd0.jpg,FAIL,0.5343,minor,0.00707,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8242_jpg.rf.6224432d93f7c4cc4217e8d20d9edba3.jpg,FAIL,0.2491,critical,0.06201,"{""packaging-error"": 3, ""unsealed"": 1}","defects: packaging-error x3, unsealed x1"
+frame_with_red_8254_jpg.rf.1e5aada8a0eec9febcc9f9053d0ca7d0.jpg,FAIL,0.4018,critical,0.1209,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_8266_jpg.rf.5b9faafc0c37bf853c99ea40c8a9e204.jpg,FAIL,0.3746,major,0.01677,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8270_jpg.rf.2820b388649dea68aa9d8032e8ee667a.jpg,FAIL,0.1719,minor,0.00499,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8272_jpg.rf.b37db0eb5a1e0cb0476703a9d4abd9cf.jpg,FAIL,0.4237,minor,0.00324,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8273_jpg.rf.86728d2d91c8d215952671d8217ee4e0.jpg,FAIL,0.2323,major,0.01153,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_8278_jpg.rf.16886b2ef38b6317d0a80eaa0fcc9c6f.jpg,FAIL,0.2253,critical,0.14546,"{""packaging-error"": 5, ""unsealed"": 4}","defects: packaging-error x5, unsealed x4"
+frame_with_red_8284_jpg.rf.4d66c6aee13311e2f885225e38538874.jpg,PASS,0.0519,none,0.0,{},no defect above confidence 0.10
+frame_with_red_8285_jpg.rf.0dc1b3cc681117f39b5e41a81a07715d.jpg,FAIL,0.5301,minor,0.00439,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8286_jpg.rf.2c0b254b84d2c48570d4099052cfc136.jpg,FAIL,0.5196,minor,0.0056,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8289_jpg.rf.9166a7a73eade4094a16bc8739a3615f.jpg,FAIL,0.5821,minor,0.00322,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8290_jpg.rf.595614249cfa85b16759ce91dae651b0.jpg,FAIL,0.3514,critical,0.06211,"{""packaging-error"": 4, ""unsealed"": 1}","defects: packaging-error x4, unsealed x1"
+frame_with_red_8292_jpg.rf.289981fccced7f69f4857e19ae98e2be.jpg,FAIL,0.1703,minor,0.00256,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8300_jpg.rf.77dd753ab8aea17b6db5362eaf3c02e1.jpg,FAIL,0.3746,minor,0.00642,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8302_jpg.rf.9345977417ac4154f825ee883fe93b34.jpg,FAIL,0.4744,minor,0.00251,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8304_jpg.rf.15c5ef983826380a1ab4e809cba207fb.jpg,FAIL,0.48,major,0.03567,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_8310_jpg.rf.b59d83e398cc0bb9645a0c16783ebbbf.jpg,PASS,0.0663,none,0.0,{},no defect above confidence 0.10
+frame_with_red_8314_jpg.rf.3b185b88f9d84d51a8678fb6a78eea56.jpg,FAIL,0.3983,minor,0.00346,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8321_jpg.rf.28c6d0477cee409fa24c22811672fc66.jpg,FAIL,0.3228,minor,0.00245,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8322_jpg.rf.902b56407724443f40b0a10ddd8b9eeb.jpg,PASS,0.0676,none,0.0,{},no defect above confidence 0.10
+frame_with_red_8323_jpg.rf.47aa5fb2864a7e842ba7eeb2168c2eef.jpg,FAIL,0.2343,minor,0.00397,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8324_jpg.rf.25310f3b03e6bd1da8d213315a116fea.jpg,FAIL,0.3095,minor,0.0036,"{""packaging-error"": 3}",defects: packaging-error x3
+frame_with_red_8326_jpg.rf.49e60ddc5277061c0536d7c8305516f7.jpg,FAIL,0.3991,minor,0.00442,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8335_jpg.rf.4f002a92b9e51b421fe80a0bb4145ebe.jpg,FAIL,0.5954,minor,0.00528,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_8337_jpg.rf.62df5e8671f3272c3a81cd68051bed85.jpg,FAIL,0.3141,major,0.04228,"{""packaging-error"": 2, ""unsealed"": 1}","defects: packaging-error x2, unsealed x1"
+frame_with_red_8349_jpg.rf.1bacc7d7007b83cf2f9b095d9b7c98c0.jpg,FAIL,0.3964,minor,0.00652,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_8350_jpg.rf.0530a581e828431c1302f7cf90b0980b.jpg,FAIL,0.5309,minor,0.00762,"{""packaging-error"": 2}",defects: packaging-error x2
+frame_with_red_9298_jpg.rf.21a2bab004df93fc7b60192ce42f251a.jpg,FAIL,0.4849,major,0.04543,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_9300_jpg.rf.b85ccc6ecd8ac14c935463fcc1000580.jpg,FAIL,0.8443,critical,0.13639,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_9304_jpg.rf.a6b0533d26e5ab2ba341e5900ccd806d.jpg,FAIL,0.4558,minor,0.00214,"{""packaging-error"": 1}",defects: packaging-error x1
+frame_with_red_9311_jpg.rf.42e8694a15dd5e3b34efec4e1e659be3.jpg,FAIL,0.2468,critical,0.05939,"{""unsealed"": 2}",defects: unsealed x2
+frame_with_red_9312_jpg.rf.3c87db500169c4cde9bf3c4a4d3c90bd.jpg,FAIL,0.7897,critical,0.12087,"{""unsealed"": 1}",defects: unsealed x1
+frame_with_red_9320_jpg.rf.3c4b1309975369130918474ecb0b332c.jpg,FAIL,0.4187,major,0.01059,"{""packaging-error"": 4}",defects: packaging-error x4
+frame_with_red_9662_jpg.rf.2b53b5e89de2f3edc8117f26176fce98.jpg,FAIL,0.1356,minor,0.00081,"{""packaging-error"": 1}",defects: packaging-error x1
