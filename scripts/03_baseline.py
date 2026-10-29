@@ -38,7 +38,7 @@ def run(root, name, cfg):
     y = {s: lab for s, (_, lab) in data.items()}
     print(f"features: {X['train'].shape[1]} per image, extracted in {feat_time:.1f}s")
 
-    # Model selection on validation balanced accuracy (robust to class imbalance).
+    # model selection on validation balanced accuracy (robust to class imbalance).
     best = None
     for C in (0.001, 0.01, 0.1, 1.0):
         clf = build_baseline(C=C, seed=cfg["seed"]).fit(X["train"], y["train"])
